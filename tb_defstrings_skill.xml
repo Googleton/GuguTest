@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <STRING_TABLE_LOCAL>
 <TEXT ID="51" Text="Jump"/>
 <TEXT ID="10100" Text="Resurrection"/>
@@ -12,65 +12,65 @@
 <TEXT ID="20893" Text="Throw the enemy up into the air."/>
 <TEXT ID="20895" Text="Knock down the enemy."/>
 <TEXT ID="20899" Text="Throw the enemy up into the air."/>
-<TEXT ID="40011" Text="↑→+C"/>
-<TEXT ID="40031" Text="←→+C"/>
-<TEXT ID="40051" Text="←→→+C"/>
-<TEXT ID="40071" Text="←↓→+C"/>
+<TEXT ID="40011" Text="??+C"/>
+<TEXT ID="40031" Text="??+C"/>
+<TEXT ID="40051" Text="???+C"/>
+<TEXT ID="40071" Text="???+C"/>
 <TEXT ID="40091" Text="Space Bar"/>
-<TEXT ID="40101" Text="↑+Space Bar"/>
-<TEXT ID="40111" Text="↑↑→+Space Bar"/>
-<TEXT ID="40131" Text="↑→+Space Bar"/>
-<TEXT ID="40151" Text="↑→→+Space Bar"/>
-<TEXT ID="40171" Text="↑↓+Space Bar"/>
-<TEXT ID="40181" Text="↑↓↓+Space Bar"/>
-<TEXT ID="40191" Text="→+Space Bar"/>
-<TEXT ID="40211" Text="→↑+Space Bar"/>
-<TEXT ID="40231" Text="→→+Space Bar"/>
-<TEXT ID="40251" Text="→↓+Space Bar"/>
-<TEXT ID="40271" Text="→↓→+Space Bar"/>
-<TEXT ID="40291" Text="→←→+Space Bar"/>
-<TEXT ID="40311" Text="↓+Space Bar"/>
-<TEXT ID="40321" Text="↓↑+Space Bar"/>
-<TEXT ID="40331" Text="↓→+Space Bar"/>
-<TEXT ID="40351" Text="↓→→+Space Bar"/>
-<TEXT ID="40371" Text="↓↓+Space Bar"/>
-<TEXT ID="40381" Text="←→+Space Bar"/>
-<TEXT ID="40401" Text="←→→+Space Bar"/>
-<TEXT ID="40411" Text="→+X"/>
-<TEXT ID="40421" Text="↑+X"/>
-<TEXT ID="40431" Text="↑→+X"/>
-<TEXT ID="40432" Text="→→+X"/>
-<TEXT ID="40451" Text="↑→→+X"/>
-<TEXT ID="40471" Text="↓+X"/>
-<TEXT ID="40481" Text="↓↑+X"/>
-<TEXT ID="40491" Text="↓→+X"/>
-<TEXT ID="40511" Text="↓→→+X"/>
-<TEXT ID="40531" Text="↓↓+X"/>
-<TEXT ID="40541" Text="←→+X"/>
+<TEXT ID="40101" Text="?+Space Bar"/>
+<TEXT ID="40111" Text="???+Space Bar"/>
+<TEXT ID="40131" Text="??+Space Bar"/>
+<TEXT ID="40151" Text="???+Space Bar"/>
+<TEXT ID="40171" Text="??+Space Bar"/>
+<TEXT ID="40181" Text="???+Space Bar"/>
+<TEXT ID="40191" Text="?+Space Bar"/>
+<TEXT ID="40211" Text="??+Space Bar"/>
+<TEXT ID="40231" Text="??+Space Bar"/>
+<TEXT ID="40251" Text="??+Space Bar"/>
+<TEXT ID="40271" Text="???+Space Bar"/>
+<TEXT ID="40291" Text="???+Space Bar"/>
+<TEXT ID="40311" Text="?+Space Bar"/>
+<TEXT ID="40321" Text="??+Space Bar"/>
+<TEXT ID="40331" Text="??+Space Bar"/>
+<TEXT ID="40351" Text="???+Space Bar"/>
+<TEXT ID="40371" Text="??+Space Bar"/>
+<TEXT ID="40381" Text="??+Space Bar"/>
+<TEXT ID="40401" Text="???+Space Bar"/>
+<TEXT ID="40411" Text="?+X"/>
+<TEXT ID="40421" Text="?+X"/>
+<TEXT ID="40431" Text="??+X"/>
+<TEXT ID="40432" Text="??+X"/>
+<TEXT ID="40451" Text="???+X"/>
+<TEXT ID="40471" Text="?+X"/>
+<TEXT ID="40481" Text="??+X"/>
+<TEXT ID="40491" Text="??+X"/>
+<TEXT ID="40511" Text="???+X"/>
+<TEXT ID="40531" Text="??+X"/>
+<TEXT ID="40541" Text="??+X"/>
 <TEXT ID="40561" Text="Z"/>
-<TEXT ID="40571" Text="↑+Z"/>
-<TEXT ID="40581" Text="↑↑→+Z"/>
-<TEXT ID="40601" Text="↑↑↓+Z"/>
-<TEXT ID="40611" Text="↑→+Z"/>
-<TEXT ID="40631" Text="↑→→+Z"/>
-<TEXT ID="40651" Text="↑↓+Z"/>
-<TEXT ID="40661" Text="↑↓↑+Z"/>
-<TEXT ID="40671" Text="→+Z"/>
-<TEXT ID="40691" Text="→↑+Z"/>
-<TEXT ID="40711" Text="→→+Z"/>
-<TEXT ID="40731" Text="→↓+Z"/>
-<TEXT ID="40751" Text="→↓→+Z"/>
-<TEXT ID="40771" Text="→←→+Z"/>
-<TEXT ID="40791" Text="↓↑+Z"/>
-<TEXT ID="40801" Text="↓→+Z"/>
-<TEXT ID="40821" Text="↓→→+Z"/>
-<TEXT ID="40841" Text="↓→↓+Z"/>
-<TEXT ID="40861" Text="↓↓+Z"/>
-<TEXT ID="40871" Text="↓↓→+Z"/>
-<TEXT ID="40891" Text="←↑→+Z"/>
-<TEXT ID="40911" Text="←→+Z"/>
-<TEXT ID="40931" Text="←→→+Z"/>
-<TEXT ID="40951" Text="←↓→+Z"/>
+<TEXT ID="40571" Text="?+Z"/>
+<TEXT ID="40581" Text="???+Z"/>
+<TEXT ID="40601" Text="???+Z"/>
+<TEXT ID="40611" Text="??+Z"/>
+<TEXT ID="40631" Text="???+Z"/>
+<TEXT ID="40651" Text="??+Z"/>
+<TEXT ID="40661" Text="???+Z"/>
+<TEXT ID="40671" Text="?+Z"/>
+<TEXT ID="40691" Text="??+Z"/>
+<TEXT ID="40711" Text="??+Z"/>
+<TEXT ID="40731" Text="??+Z"/>
+<TEXT ID="40751" Text="???+Z"/>
+<TEXT ID="40771" Text="???+Z"/>
+<TEXT ID="40791" Text="??+Z"/>
+<TEXT ID="40801" Text="??+Z"/>
+<TEXT ID="40821" Text="???+Z"/>
+<TEXT ID="40841" Text="???+Z"/>
+<TEXT ID="40861" Text="??+Z"/>
+<TEXT ID="40871" Text="???+Z"/>
+<TEXT ID="40891" Text="???+Z"/>
+<TEXT ID="40911" Text="??+Z"/>
+<TEXT ID="40931" Text="???+Z"/>
+<TEXT ID="40951" Text="???+Z"/>
 <TEXT ID="60001" Text="Increase Max HP by 25%"/>
 <TEXT ID="60002" Text="Increase Phy/Mag Defense by 10%"/>
 <TEXT ID="60003" Text="Increase Max HP by 50%"/>
@@ -85,22 +85,22 @@
 <TEXT ID="290010" Text="Roar of victory"/>
 <TEXT ID="290011" Text="Buff cast upon Knight class during PvP"/>
 <TEXT ID="290021" Text="Buff cast upon Gladiator class during PvP"/>
-<TEXT ID="290031" Text="PVP시 메이지(매지션)클래스에게 발동하는 버프입니다. 
-HP : 50% 증가, MP 20% 증가, 최종 명중률 3% 증가
-반면 
-스파크 롹(스킬)의 범위 25% 감소 
-확산포(스킬)사용시 연타 공격할때 마다 데미지 감소(최대 70%까지 감소)
-더블샷(스킬)사용시 연타 공격할때 마다 데미지 감소(최대 70%까지 감소)"/>
+<TEXT ID="290031" Text="PVP? ???(???)????? ???? ?????. 
+HP : 50% ??, MP 20% ??, ?? ??? 3% ??
+?? 
+??? ?(??)? ?? 25% ?? 
+???(??)??? ?? ???? ?? ??? ??(?? 70%?? ??)
+???(??)??? ?? ???? ?? ??? ??(?? 70%?? ??)"/>
 <TEXT ID="290041" Text="Buff cast upon Battle Mage class during PvP"/>
-<TEXT ID="290051" Text="PVP시 사냥꾼(궁수)클래스에게 발동하는 버프입니다. 
-HP : 60% 증가, 최종 명중률 5% 증가
-반면
-대공사격(스킬)사용시 연타 공격할때 마다 데미지 감소(최대 70%까지 감소)"/>
-<TEXT ID="290061" Text="PVP시 레인저클래스에게 발동하는 버프입니다. 
-HP : 60% 증가, 최종 명중률 5% 증가
-반면
-대공사격(스킬)사용시 연타 공격할때 마다 데미지 감소(최대 70%까지 감소)
-카모플라쥬(스킬) 사용불가"/>
+<TEXT ID="290051" Text="PVP? ???(??)????? ???? ?????. 
+HP : 60% ??, ?? ??? 5% ??
+??
+????(??)??? ?? ???? ?? ??? ??(?? 70%?? ??)"/>
+<TEXT ID="290061" Text="PVP? ???????? ???? ?????. 
+HP : 60% ??, ?? ??? 5% ??
+??
+????(??)??? ?? ???? ?? ??? ??(?? 70%?? ??)
+?????(??) ????"/>
 <TEXT ID="290071" Text="Buff cast upon Jester class during PvP
 Increase:
 HP: 60%
@@ -121,17 +121,17 @@ Not able to use Shadow Walk"/>
 <TEXT ID="300401" Text="Lowest HP Potion"/>
 <TEXT ID="300500" Text="Dimensional Resistance"/>
 <TEXT ID="300501" Text="Lowest MP Potion"/>
-<TEXT ID="300502" Text="DDDD-Translation is not needed this time."/>
-<TEXT ID="300600" Text="DDDD-Translation is not needed this time."/>
+<TEXT ID="300502" Text="#300502"/>
+<TEXT ID="300600" Text="#300600"/>
 <TEXT ID="300601" Text="Lower HP Potion"/>
-<TEXT ID="300602" Text="DDDD-Translation is not needed this time."/>
+<TEXT ID="300602" Text="#300602"/>
 <TEXT ID="300701" Text="Lower MP Potion"/>
-<TEXT ID="300800" Text="DDDD-Translation is not needed this time."/>
+<TEXT ID="300800" Text="#300800"/>
 <TEXT ID="300801" Text="HP Potion"/>
-<TEXT ID="300802" Text="DDDD-Translation is not needed this time."/>
-<TEXT ID="300900" Text="DDDD-Translation is not needed this time."/>
+<TEXT ID="300802" Text="#300802"/>
+<TEXT ID="300900" Text="#300900"/>
 <TEXT ID="300901" Text="MP Potion"/>
-<TEXT ID="300902" Text="DDDD-Translation is not needed this time."/>
+<TEXT ID="300902" Text="#300902"/>
 <TEXT ID="301001" Text="Higher HP Potion"/>
 <TEXT ID="301101" Text="Higher MP Potion"/>
 <TEXT ID="301201" Text="Highest HP Potion"/>
@@ -184,11 +184,11 @@ Not able to use Shadow Walk"/>
 <TEXT ID="306601" Text="5 Min Cool Down Time Reset Potion"/>
 <TEXT ID="308801" Text="(Movement speed reduced by 50%, can not jump or dash)
 A resistance you get because you are not used to this dimention. If you wear a novice set created by Dr. Klein, the resistance can be avoided."/>
-<TEXT ID="308900" Text="Dimentional Resistance"/>
-<TEXT ID="309000" Text="Remove Dimentional Resistance"/>
-<TEXT ID="309001" Text="Thanks to Dr. Klein&#39;s novice set, the dimentional resistance has ben removed"/>
+<TEXT ID="308900" Text="Dimensional Resistance"/>
+<TEXT ID="309000" Text="Remove Dimensional Resistance"/>
+<TEXT ID="309001" Text="Thanks to Dr. Klein&#39;s novice set, the dimensional resistance has been removed."/>
 <TEXT ID="309101" Text="(Attack Damage reduced by 80%)
-A Seal Restriction created by Dr. Kaluza to restrict people from other dimention who want Glast Heim treasure. It can be removed by equipping with Avatar set that can be obtained at the Orc Field (Dungeon)."/>
+A Seal Restriction created by Dr. Kaluza to restrict people from other dimension who want Glast Heim treasure. It can be removed by equipping with Avatar set that can be obtained at the Orc Field (Dungeon)."/>
 <TEXT ID="309200" Text="Seal Restriction"/>
 <TEXT ID="309300" Text="Remove Seal Restriction"/>
 <TEXT ID="309301" Text="By equipping with avatar set from Orc Field, the seal restriction has been removed."/>
@@ -301,10 +301,10 @@ A Seal Restriction created by Dr. Kaluza to restrict people from other dimention
 <TEXT ID="411221" Text="30% EXP Increase"/>
 <TEXT ID="411222" Text="Dragon Lord&#39;s Blessing"/>
 <TEXT ID="411250" Text="Increase EXP by 20%"/>
-<TEXT ID="411301" Text="회피율 1% 증가"/>
-<TEXT ID="411302" Text="회피율 2% 증가"/>
-<TEXT ID="411303" Text="회피율 3% 증가"/>
-<TEXT ID="411304" Text="회피율 4% 증가"/>
+<TEXT ID="411301" Text="Increase Final Evade Rate by 1%"/>
+<TEXT ID="411302" Text="Increase Final Evade Rate by 2%"/>
+<TEXT ID="411303" Text="Increase Final Evade Rate by 3%"/>
+<TEXT ID="411304" Text="Increase Final Evade Rate by 4%"/>
 <TEXT ID="411401" Text="Increase Attack Speed by 2%"/>
 <TEXT ID="411402" Text="Increase Attack Speed by 3%"/>
 <TEXT ID="411403" Text="Increase Attack Speed by 4%"/>
@@ -321,10 +321,10 @@ A Seal Restriction created by Dr. Kaluza to restrict people from other dimention
 <TEXT ID="411702" Text="Increase MP Recovery Speed by 3%"/>
 <TEXT ID="411703" Text="Increase MP Recovery Speed by 4%"/>
 <TEXT ID="411704" Text="Increase MP Recovery Speed by 5%"/>
-<TEXT ID="411801" Text="명중률 1% 증가"/>
-<TEXT ID="411802" Text="명중률 2% 증가"/>
-<TEXT ID="411803" Text="명중률 3% 증가"/>
-<TEXT ID="411804" Text="명중률 4% 증가"/>
+<TEXT ID="411801" Text="Increase Final Aim Rate by 1%"/>
+<TEXT ID="411802" Text="Increase Final Aim Rate by 2%"/>
+<TEXT ID="411803" Text="Increase Final Aim Rate by 3%"/>
+<TEXT ID="411804" Text="Increase Final Aim Rate by 4%"/>
 <TEXT ID="411901" Text="Increase Movement Speed by 2%"/>
 <TEXT ID="411902" Text="Increase Movement Speed by 3%"/>
 <TEXT ID="411903" Text="Increase Movement Speed by 4%"/>
@@ -333,14 +333,14 @@ A Seal Restriction created by Dr. Kaluza to restrict people from other dimention
 <TEXT ID="412002" Text="Increase HP Recovery Speed by 3%"/>
 <TEXT ID="412003" Text="Increase HP Recovery Speed by 4%"/>
 <TEXT ID="412004" Text="Increase HP Recovery Speed by 5%"/>
-<TEXT ID="412101" Text="치명타 확률 1% 증가"/>
-<TEXT ID="412102" Text="치명타 확률 2% 증가"/>
-<TEXT ID="412103" Text="치명타 확률 3% 증가"/>
-<TEXT ID="412104" Text="치명타 확률 4% 증가"/>
-<TEXT ID="412201" Text="Increase Damage Reduction by 2%"/>
-<TEXT ID="412202" Text="Increase Damage Reduction by 3%"/>
-<TEXT ID="412203" Text="Increase Damage Reduction by 4%"/>
-<TEXT ID="412204" Text="Increase Damage Reduction by 5%"/>
+<TEXT ID="412101" Text="Increase Final Critical Success Rate by 1%"/>
+<TEXT ID="412102" Text="Increase Final Critical Success Rate by 2%"/>
+<TEXT ID="412103" Text="Increase Final Critical Success Rate by 3%"/>
+<TEXT ID="412104" Text="Increase Final Critical Success Rate by 4%"/>
+<TEXT ID="412201" Text="Increase Physical Damage Drop by 2%"/>
+<TEXT ID="412202" Text="Increase Physical Damage Drop by 3%"/>
+<TEXT ID="412203" Text="Increase Physical Damage Drop by 4%"/>
+<TEXT ID="412204" Text="Increase Physical Damage Drop by 5%"/>
 <TEXT ID="412301" Text="Increase Physical Attack Power by 2%"/>
 <TEXT ID="412302" Text="Increase Physical Attack Power by 3%"/>
 <TEXT ID="412303" Text="Increase Physical Attack Power by 4%"/>
@@ -349,10 +349,10 @@ A Seal Restriction created by Dr. Kaluza to restrict people from other dimention
 <TEXT ID="412402" Text="Increase Physical Defense by 3%"/>
 <TEXT ID="412403" Text="Increase Physical Defense by 4%"/>
 <TEXT ID="412404" Text="Increase Physical Defense by 5%"/>
-<TEXT ID="412501" Text="블록율 1% 증가"/>
-<TEXT ID="412502" Text="블록율 2% 증가"/>
-<TEXT ID="412503" Text="블록율 3% 증가"/>
-<TEXT ID="412504" Text="블록율 4% 증가"/>
+<TEXT ID="412501" Text="Increase Final Block Rate by 1%"/>
+<TEXT ID="412502" Text="Increase Final Block Rate by 2%"/>
+<TEXT ID="412503" Text="Increase Final Block Rate by 3%"/>
+<TEXT ID="412504" Text="Increase Final Block Rate by 4%"/>
 <TEXT ID="412601" Text="Increase Max HP by 2%"/>
 <TEXT ID="412602" Text="Increase Max HP by 3%"/>
 <TEXT ID="412603" Text="Increase Max HP by 4%"/>
@@ -393,7 +393,7 @@ A Seal Restriction created by Dr. Kaluza to restrict people from other dimention
 <TEXT ID="430201" Text="EXP 10% Increase"/>
 <TEXT ID="430301" Text="EXP 15% Increase"/>
 <TEXT ID="430401" Text="EXP 20% Increase"/>
-<TEXT ID="430501" Text="크리티컬 4% 증가"/>
+<TEXT ID="430501" Text="???? 4% ??"/>
 <TEXT ID="430601" Text="Attack speed Increase"/>
 <TEXT ID="430701" Text="Auto Recovery amount Increase"/>
 <TEXT ID="430801" Text="HP/MP Max amount Increase"/>
@@ -475,10 +475,10 @@ A Seal Restriction created by Dr. Kaluza to restrict people from other dimention
 <TEXT ID="501802" Text="Masquerader Party Buff skill Lv. 2"/>
 <TEXT ID="501803" Text="Masquerader Party Buff skill Lv. 3"/>
 <TEXT ID="501804" Text="Masquerader Party Buff skill Lv. 4"/>
-<TEXT ID="501901" Text="Ninja Party Buff skill Lv. 1"/>
-<TEXT ID="501902" Text="Ninja Party Buff skill Lv. 2"/>
-<TEXT ID="501903" Text="Ninja Party Buff skill Lv. 3"/>
-<TEXT ID="501904" Text="Ninja Party Buff skill Lv. 4"/>
+<TEXT ID="501901" Text="Ninja Party Buff"/>
+<TEXT ID="501902" Text="Ninja Party Buff"/>
+<TEXT ID="501903" Text="Ninja Party Buff"/>
+<TEXT ID="501904" Text="Ninja Party Buff"/>
 <TEXT ID="502001" Text="Shaman Party buff Lv 1"/>
 <TEXT ID="502002" Text="Shaman Party buff Lv 2"/>
 <TEXT ID="502003" Text="Shaman Party buff Lv 3"/>
@@ -526,13 +526,23 @@ A Seal Restriction created by Dr. Kaluza to restrict people from other dimention
 <TEXT ID="531701" Text="Physical power"/>
 <TEXT ID="531711" Text="Increase party member physical attack."/>
 <TEXT ID="531801" Text="Feint"/>
-<TEXT ID="531811" Text="Increase party member dodge rate."/>
-<TEXT ID="532301" Text="제우스의 협동의 힘[파티전체]"/>
-<TEXT ID="532401" Text="아폴론의 심장[파티전체]"/>
-<TEXT ID="532501" Text="포세이돈의 방어벽[파티전체]"/>
-<TEXT ID="532601" Text="하데스의 발걸음[파티전체]"/>
-<TEXT ID="532701" Text="아르테미스 신속한 움직임[파티전체]"/>
-<TEXT ID="532801" Text="헤파이토스 열정의 망치[파티전체]"/>
+<TEXT ID="531811" Text="Increase party member evade rate."/>
+<TEXT ID="532301" Text="Power of Zeus [Party]"/>
+<TEXT ID="532401" Text="Heart of Apollo [Party]"/>
+<TEXT ID="532501" Text="Stronghold of Poseidon [Party]"/>
+<TEXT ID="532601" Text="Steps of Hades [Party]"/>
+<TEXT ID="532701" Text="Quickness of Artemis [Party]"/>
+<TEXT ID="532801" Text="Hammer of Hephaistos [Party]"/>
+<TEXT ID="534101" Text="Combat Sole Sword"/>
+<TEXT ID="534201" Text="Combat Sole Blade"/>
+<TEXT ID="534301" Text="Magic Sole Staff"/>
+<TEXT ID="534401" Text="Magic Sole Spear"/>
+<TEXT ID="534501" Text="Combat Sole Bow"/>
+<TEXT ID="534601" Text="Combat Sole Crossbow"/>
+<TEXT ID="534701" Text="Combat Sole Claw"/>
+<TEXT ID="534801" Text="Combat Sole Katar"/>
+<TEXT ID="534901" Text="Combat Sole Gauntlet"/>
+<TEXT ID="535001" Text="Magic Sole Gunstaff"/>
 <TEXT ID="600011" Text="Battle Square buff for 1 time Death"/>
 <TEXT ID="600021" Text="Battle Square buff for 2 times continuous Deaths."/>
 <TEXT ID="600031" Text="Battle Square buff for 3 times continuous Deaths."/>
@@ -597,12 +607,12 @@ A Seal Restriction created by Dr. Kaluza to restrict people from other dimention
 <TEXT ID="1531704" Text="Increase 16% of party member physical attack."/>
 <TEXT ID="1531705" Text="Increase 18% of party member physical attack."/>
 <TEXT ID="1531706" Text="Increase 20% of party member physical attack."/>
-<TEXT ID="1531801" Text="Increase 10% of party member dodge rate."/>
-<TEXT ID="1531802" Text="Increase 12% of party member dodge rate."/>
-<TEXT ID="1531803" Text="Increase 14% of party member dodge rate."/>
-<TEXT ID="1531804" Text="Increase 16% of party member dodge rate."/>
-<TEXT ID="1531805" Text="Increase 18% of party member dodge rate."/>
-<TEXT ID="1531806" Text="Increase 20% of party member dodge rate."/>
+<TEXT ID="1531801" Text="Increase 10% of party member evade rate."/>
+<TEXT ID="1531802" Text="Increase 12% of party member evade rate."/>
+<TEXT ID="1531803" Text="Increase 14% of party member evade rate."/>
+<TEXT ID="1531804" Text="Increase 16% of party member evade rate."/>
+<TEXT ID="1531805" Text="Increase 18% of party member evade rate."/>
+<TEXT ID="1531806" Text="Increase 20% of party member evade rate."/>
 <TEXT ID="1531901" Text="Cannot be attacked while in the protective barrier"/>
 <TEXT ID="1531902" Text="Cannot be attacked while in the protective barrier"/>
 <TEXT ID="1531903" Text="Cannot be attacked while in the protective barrier"/>
@@ -775,81 +785,81 @@ A Seal Restriction created by Dr. Kaluza to restrict people from other dimention
 (Redundant usage does not increase use time or give double effect)"/>
 <TEXT ID="4091011" Text="EXP potion which can be used from 12AM ~ 6AM.Increases EXP gain rate to 150%.
 (Redundant usage does not increase use time or give double effect)"/>
-<TEXT ID="4112011" Text="My Home EXP is increased by 2%. Effect disappears when logging off."/>
-<TEXT ID="4112021" Text="My Home EXP is increased by 3%. Effect disappears when logging off."/>
-<TEXT ID="4112031" Text="My Home EXP is increased by 4%. Effect disappears when logging off."/>
-<TEXT ID="4112041" Text="My Home EXP is increased by 5%. Effect disappears when logging off."/>
+<TEXT ID="4112011" Text="[MyHome] EXP is increased by 2%. Effect disappears when logging off."/>
+<TEXT ID="4112021" Text="[MyHome] EXP is increased by 3%. Effect disappears when logging off."/>
+<TEXT ID="4112031" Text="[MyHome] EXP is increased by 4%. Effect disappears when logging off."/>
+<TEXT ID="4112041" Text="[MyHome] EXP is increased by 5%. Effect disappears when logging off."/>
 <TEXT ID="4112171" Text="EXP rate is increased by 5% by using recommended channel."/>
 <TEXT ID="4112181" Text="EXP rate is increased by 10% by using recommended channel."/>
 <TEXT ID="4112191" Text="EXP rate is increased by 20% by using recommended channel."/>
 <TEXT ID="4112201" Text="EXP 15% increased for logging into the recommended channel"/>
 <TEXT ID="4112211" Text="EXP 30% increased for logging into the recommended channel"/>
 <TEXT ID="4112212" Text="By entering the recommended channel, you are getting EXP 30% up, gold drop 10% up, and maximum HP and MP 10% up."/>
-<TEXT ID="4112501" Text="DDDD-Translation is not needed this time."/>
-<TEXT ID="4113011" Text="My Home Evade Rate is increased by 2%. Effect disappears when logging off."/>
-<TEXT ID="4113021" Text="My Home Evade Rate is increased by 3%. Effect disappears when logging off."/>
-<TEXT ID="4113031" Text="My Home Evade Rate is increased by 4%. Effect disappears when logging off."/>
-<TEXT ID="4113041" Text="My Home Evade Rate is increased by 5%. Effect disappears when logging off."/>
-<TEXT ID="4114011" Text="My Home Attack Speed is increased by 2%. Effect disappears when logging off."/>
-<TEXT ID="4114021" Text="My Home Attack Speed is increased by 3%. Effect disappears when logging off."/>
-<TEXT ID="4114031" Text="My Home Attack Speed is increased by 4%. Effect disappears when logging off."/>
-<TEXT ID="4114041" Text="My Home Attack Speed is increased by 5%. Effect disappears when logging off."/>
-<TEXT ID="4115011" Text="My Home Magic Defense is increased by 2%. Effect disappears when logging off."/>
-<TEXT ID="4115021" Text="My Home Magic Defense is increased by 3%. Effect disappears when logging off."/>
-<TEXT ID="4115031" Text="My Home Magic Defense is increased by 4%. Effect disappears when logging off."/>
-<TEXT ID="4115041" Text="My Home Magic Defense is increased by 5%. Effect disappears when logging off."/>
-<TEXT ID="4116011" Text="My Home Magical Attack Power is increased by 2%. Effect disappears when logging off."/>
-<TEXT ID="4116021" Text="My Home Magical Attack Power is increased by 3%. Effect disappears when logging off."/>
-<TEXT ID="4116031" Text="My Home Magical Attack Power is increased by 4%. Effect disappears when logging off."/>
-<TEXT ID="4116041" Text="My Home Magical Attack Power is increased by 5%. Effect disappears when logging off."/>
-<TEXT ID="4117011" Text="My Home MP Recovery Speed is increased by 2%. Effect disappears when logging off."/>
-<TEXT ID="4117021" Text="My Home MP Recovery Speed is increased by 3%. Effect disappears when logging off."/>
-<TEXT ID="4117031" Text="My Home MP Recovery Speed is increased by 4%. Effect disappears when logging off."/>
-<TEXT ID="4117041" Text="My Home MP Recovery Speed is increased by 5%. Effect disappears when logging off."/>
-<TEXT ID="4118011" Text="My Home Aim Rate is increased by 2%. Effect disappears when logging off."/>
-<TEXT ID="4118021" Text="My Home Aim Rate is increased by 3%. Effect disappears when logging off."/>
-<TEXT ID="4118031" Text="My Home Aim Rate is increased by 4%. Effect disappears when logging off."/>
-<TEXT ID="4118041" Text="My Home Aim Rate is increased by 5%. Effect disappears when logging off."/>
-<TEXT ID="4119011" Text="My Home Movement Speed is increased by 2%. Effect disappears when logging off."/>
-<TEXT ID="4119021" Text="My Home Movement Speed is increased by 3%. Effect disappears when logging off."/>
-<TEXT ID="4119031" Text="My Home Movement Speed is increased by 4%. Effect disappears when logging off."/>
-<TEXT ID="4119041" Text="My Home Movement Speed is increased by 5%. Effect disappears when logging off."/>
-<TEXT ID="4120011" Text="My Home HP Recovery Speed is increased by 2%. Effect disappears when logging off."/>
-<TEXT ID="4120021" Text="My Home HP Recovery Speed is increased by 3%. Effect disappears when logging off."/>
-<TEXT ID="4120031" Text="My Home HP Recovery Speed is increased by 4%. Effect disappears when logging off."/>
-<TEXT ID="4120041" Text="My Home HP Recovery Speed is increased by 5%. Effect disappears when logging off."/>
-<TEXT ID="4121011" Text="My Home Critical Rate is increased by 2%. Effect disappears when logging off."/>
-<TEXT ID="4121021" Text="My Home Critical Rate is increased by 3%. Effect disappears when logging off."/>
-<TEXT ID="4121031" Text="My Home Critical Rate is increased by 4%. Effect disappears when logging off."/>
-<TEXT ID="4121041" Text="My Home Critical Rate is increased by 5%. Effect disappears when logging off."/>
-<TEXT ID="4122011" Text="My Home Damage Reduction is increased by 2%. Effect disappears when logging off."/>
-<TEXT ID="4122021" Text="My Home Damage Reduction is increased by 3%. Effect disappears when logging off."/>
-<TEXT ID="4122031" Text="My Home Damage Reduction is increased by 4%. Effect disappears when logging off."/>
-<TEXT ID="4122041" Text="My Home Damage Reduction is increased by 5%. Effect disappears when logging off."/>
-<TEXT ID="4123011" Text="My Home Physical Attack Power is increased by 2%. Effect disappears when logging off."/>
-<TEXT ID="4123021" Text="My Home Physical Attack Power is increased by 3%. Effect disappears when logging off."/>
-<TEXT ID="4123031" Text="My Home Physical Attack Power is increased by 4%. Effect disappears when logging off."/>
-<TEXT ID="4123041" Text="My Home Physical Attack Power is increased by 5%. Effect disappears when logging off."/>
-<TEXT ID="4124011" Text="My Home Physical Defense is increased by 2%. Effect disappears when logging off."/>
-<TEXT ID="4124021" Text="My Home Physical Defense is increased by 3%. Effect disappears when logging off."/>
-<TEXT ID="4124031" Text="My Home Physical Defense is increased by 4%. Effect disappears when logging off."/>
-<TEXT ID="4124041" Text="My Home Physical Defense is increased by 5%. Effect disappears when logging off."/>
-<TEXT ID="4125011" Text="My Home Block Rate is increased by 2%. Effect disappears when logging off."/>
-<TEXT ID="4125021" Text="My Home Block Rate is increased by 3%. Effect disappears when logging off."/>
-<TEXT ID="4125031" Text="My Home Block Rate is increased by 4%. Effect disappears when logging off."/>
-<TEXT ID="4125041" Text="My Home Block Rate is increased by 5%. Effect disappears when logging off."/>
-<TEXT ID="4126011" Text="My Home HP is increased by 2%. Effect disappears when logging off."/>
-<TEXT ID="4126021" Text="My Home HP is increased by 3%. Effect disappears when logging off."/>
-<TEXT ID="4126031" Text="My Home HP is increased by 4%. Effect disappears when logging off."/>
-<TEXT ID="4126041" Text="My Home HP is increased by 5%. Effect disappears when logging off."/>
-<TEXT ID="4127011" Text="My Home MP is increased by 2%. Effect disappears when logging off."/>
-<TEXT ID="4127021" Text="My Home MP is increased by 3%. Effect disappears when logging off."/>
-<TEXT ID="4127031" Text="My Home MP is increased by 4%. Effect disappears when logging off."/>
-<TEXT ID="4127041" Text="My Home MP is increased by 5%. Effect disappears when logging off."/>
-<TEXT ID="4128011" Text="My Home Critical Strike Attack Power is increased by 2%. Effect disappears when logging off."/>
-<TEXT ID="4128021" Text="My Home Critical Strike Attack Power is increased by 3%. Effect disappears when logging off."/>
-<TEXT ID="4128031" Text="My Home Critical Strike Attack Power is increased by 4%. Effect disappears when logging off."/>
-<TEXT ID="4128041" Text="My Home Critical Strike Attack Power is increased by 5%. Effect disappears when logging off."/>
+<TEXT ID="4112501" Text="#4112501"/>
+<TEXT ID="4113011" Text="[MyHome] Final Evade Rate is increased by 1%. Effect disappears when logging off."/>
+<TEXT ID="4113021" Text="[MyHome] Final Evade Rate is increased by 2%. Effect disappears when logging off."/>
+<TEXT ID="4113031" Text="[MyHome] Final Evade Rate is increased by 3%. Effect disappears when logging off."/>
+<TEXT ID="4113041" Text="[MyHome] Final Evade Rate is increased by 4%. Effect disappears when logging off."/>
+<TEXT ID="4114011" Text="[MyHome] Attack Speed is increased by 2%. Effect disappears when logging off."/>
+<TEXT ID="4114021" Text="[MyHome] Attack Speed is increased by 3%. Effect disappears when logging off."/>
+<TEXT ID="4114031" Text="[MyHome] Attack Speed is increased by 4%. Effect disappears when logging off."/>
+<TEXT ID="4114041" Text="[MyHome] Attack Speed is increased by 5%. Effect disappears when logging off."/>
+<TEXT ID="4115011" Text="[MyHome] Magic Defense is increased by 2%. Effect disappears when logging off."/>
+<TEXT ID="4115021" Text="[MyHome] Magic Defense is increased by 3%. Effect disappears when logging off."/>
+<TEXT ID="4115031" Text="[MyHome] Magic Defense is increased by 4%. Effect disappears when logging off."/>
+<TEXT ID="4115041" Text="[MyHome] Magic Defense is increased by 5%. Effect disappears when logging off."/>
+<TEXT ID="4116011" Text="[MyHome] Magical Attack Power is increased by 2%. Effect disappears when logging off."/>
+<TEXT ID="4116021" Text="[MyHome] Magical Attack Power is increased by 3%. Effect disappears when logging off."/>
+<TEXT ID="4116031" Text="[MyHome] Magical Attack Power is increased by 4%. Effect disappears when logging off."/>
+<TEXT ID="4116041" Text="[MyHome] Magical Attack Power is increased by 5%. Effect disappears when logging off."/>
+<TEXT ID="4117011" Text="[MyHome] MP Recovery Speed is increased by 2%. Effect disappears when logging off."/>
+<TEXT ID="4117021" Text="[MyHome] MP Recovery Speed is increased by 3%. Effect disappears when logging off."/>
+<TEXT ID="4117031" Text="[MyHome] MP Recovery Speed is increased by 4%. Effect disappears when logging off."/>
+<TEXT ID="4117041" Text="[MyHome] MP Recovery Speed is increased by 5%. Effect disappears when logging off."/>
+<TEXT ID="4118011" Text="[MyHome] Final Aim Rate is increased by 1%. Effect disappears when logging off."/>
+<TEXT ID="4118021" Text="[MyHome] Final Aim Rate is increased by 2%. Effect disappears when logging off."/>
+<TEXT ID="4118031" Text="[MyHome] Final Aim Rate is increased by 3%. Effect disappears when logging off."/>
+<TEXT ID="4118041" Text="[MyHome] Final Aim Rate is increased by 4%. Effect disappears when logging off."/>
+<TEXT ID="4119011" Text="[MyHome] Movement Speed is increased by 2%. Effect disappears when logging off."/>
+<TEXT ID="4119021" Text="[MyHome] Movement Speed is increased by 3%. Effect disappears when logging off."/>
+<TEXT ID="4119031" Text="[MyHome] Movement Speed is increased by 4%. Effect disappears when logging off."/>
+<TEXT ID="4119041" Text="[MyHome] Movement Speed is increased by 5%. Effect disappears when logging off."/>
+<TEXT ID="4120011" Text="[MyHome] HP Recovery Speed is increased by 2%. Effect disappears when logging off."/>
+<TEXT ID="4120021" Text="[MyHome] HP Recovery Speed is increased by 3%. Effect disappears when logging off."/>
+<TEXT ID="4120031" Text="[MyHome] HP Recovery Speed is increased by 4%. Effect disappears when logging off."/>
+<TEXT ID="4120041" Text="[MyHome] HP Recovery Speed is increased by 5%. Effect disappears when logging off."/>
+<TEXT ID="4121011" Text="[MyHome] Final Critical Success Rate is increased by 1%. Effect disappears when logging off."/>
+<TEXT ID="4121021" Text="[MyHome] Final Critical Success Rate is increased by 2%. Effect disappears when logging off."/>
+<TEXT ID="4121031" Text="[MyHome] Final Critical Success Rate is increased by 3%. Effect disappears when logging off."/>
+<TEXT ID="4121041" Text="[MyHome] Final Critical Success Rate is increased by 4%. Effect disappears when logging off."/>
+<TEXT ID="4122011" Text="[MyHome] Physical Damage Drop is increased by 2%. Effect disappears when logging off."/>
+<TEXT ID="4122021" Text="[MyHome] Physical Damage Drop is increased by 3%. Effect disappears when logging off."/>
+<TEXT ID="4122031" Text="[MyHome] Physical Damage Drop is increased by 4%. Effect disappears when logging off."/>
+<TEXT ID="4122041" Text="[MyHome] Physical Damage Drop is increased by 5%. Effect disappears when logging off."/>
+<TEXT ID="4123011" Text="[MyHome] Physical Attack Power is increased by 2%. Effect disappears when logging off."/>
+<TEXT ID="4123021" Text="[MyHome] Physical Attack Power is increased by 3%. Effect disappears when logging off."/>
+<TEXT ID="4123031" Text="[MyHome] Physical Attack Power is increased by 4%. Effect disappears when logging off."/>
+<TEXT ID="4123041" Text="[MyHome] Physical Attack Power is increased by 5%. Effect disappears when logging off."/>
+<TEXT ID="4124011" Text="[MyHome] Physical Defense is increased by 2%. Effect disappears when logging off."/>
+<TEXT ID="4124021" Text="[MyHome] Physical Defense is increased by 3%. Effect disappears when logging off."/>
+<TEXT ID="4124031" Text="[MyHome] Physical Defense is increased by 4%. Effect disappears when logging off."/>
+<TEXT ID="4124041" Text="[MyHome] Physical Defense is increased by 5%. Effect disappears when logging off."/>
+<TEXT ID="4125011" Text="[MyHome] Final Block Rate is increased by 1%. Effect disappears when logging off."/>
+<TEXT ID="4125021" Text="[MyHome] Final Block Rate is increased by 2%. Effect disappears when logging off."/>
+<TEXT ID="4125031" Text="[MyHome] Final Block Rate is increased by 3%. Effect disappears when logging off."/>
+<TEXT ID="4125041" Text="[MyHome] Final Block Rate is increased by 4%. Effect disappears when logging off."/>
+<TEXT ID="4126011" Text="[MyHome] HP is increased by 2%. Effect disappears when logging off."/>
+<TEXT ID="4126021" Text="[MyHome] HP is increased by 3%. Effect disappears when logging off."/>
+<TEXT ID="4126031" Text="[MyHome] HP is increased by 4%. Effect disappears when logging off."/>
+<TEXT ID="4126041" Text="[MyHome] HP is increased by 5%. Effect disappears when logging off."/>
+<TEXT ID="4127011" Text="[MyHome] MP is increased by 2%. Effect disappears when logging off."/>
+<TEXT ID="4127021" Text="[MyHome] MP is increased by 3%. Effect disappears when logging off."/>
+<TEXT ID="4127031" Text="[MyHome] MP is increased by 4%. Effect disappears when logging off."/>
+<TEXT ID="4127041" Text="[MyHome] MP is increased by 5%. Effect disappears when logging off."/>
+<TEXT ID="4128011" Text="[MyHome] Critical Strike Attack Power is increased by 2%. Effect disappears when logging off."/>
+<TEXT ID="4128021" Text="[MyHome] Critical Strike Attack Power is increased by 3%. Effect disappears when logging off."/>
+<TEXT ID="4128031" Text="[MyHome] Critical Strike Attack Power is increased by 4%. Effect disappears when logging off."/>
+<TEXT ID="4128041" Text="[MyHome] Critical Strike Attack Power is increased by 5%. Effect disappears when logging off."/>
 <TEXT ID="4129011" Text="EXP 50% bonus will be given since this character&#39;s level is 2nd highest among characters in your account. "/>
 <TEXT ID="4129021" Text="EXP 80% bonus will be given since this character&#39;s level is 3rd highest among characters in your account. "/>
 <TEXT ID="4129031" Text="EXP 100% bonus will be given since this character&#39;s level is 4th highest among characters in your account. "/>
@@ -965,10 +975,10 @@ Increase EXP gain rate by 2 times for duration.
 <TEXT ID="5018021" Text="Increase Attack Speed by 5% and Physical Attack Power by 3%."/>
 <TEXT ID="5018031" Text="Increase Attack Speed by 7.5% and Physical Attack Power by 4.5%."/>
 <TEXT ID="5018041" Text="Increase Attack Speed by 10% and Physical Attack Power by 6%."/>
-<TEXT ID="5019011" Text="Increase Evade Rate by +5 and Critical Rate by 2%."/>
-<TEXT ID="5019021" Text="Increase Evade Rate Rate by +10 and Critical Rate by 4%."/>
-<TEXT ID="5019031" Text="Increase Evade Rate Rate by +15 and Critical Rate by 6%."/>
-<TEXT ID="5019041" Text="Increase Evade Rate by +20 and Critical Rate by 8%."/>
+<TEXT ID="5019011" Text="Increase Final Evade Rate by 2%, Final Critical Success Rate and Attack Speed by 1%."/>
+<TEXT ID="5019021" Text="Increase Final Evade Rate by 4%, Final Critical Success Rate and Attack Speed by 2%."/>
+<TEXT ID="5019031" Text="Increase Final Evade Rate by 6%, Final Critical Success Rate and Attack Speed by 3%."/>
+<TEXT ID="5019041" Text="Increase Final Evade Rate by 8%, Final Critical Success Rate and Attack Speed by 4%."/>
 <TEXT ID="5020011" Text="HP Natural Recovery rate increase by 5"/>
 <TEXT ID="5020021" Text="HP Natural Recovery rate increase by 10"/>
 <TEXT ID="5020031" Text="HP Natural Recovery rate increase by 15"/>
@@ -981,18 +991,18 @@ Increase EXP gain rate by 2 times for duration.
 <TEXT ID="5022021" Text="Effect of HP and MP potion increase by 5%"/>
 <TEXT ID="5022031" Text="Effect of HP and MP potion increase by 7%"/>
 <TEXT ID="5022041" Text="Effect of HP and MP potion increase by 10%"/>
-<TEXT ID="5023011" Text="Critical damamge increase by 3% and physical defence increase by 5%"/>
-<TEXT ID="5023021" Text="Critical damamge increase by 4% and physical defence increase by 6%"/>
-<TEXT ID="5023031" Text="Critical damamge increase by 5% and physical defence increase by 7%"/>
-<TEXT ID="5023041" Text="Critical damamge increase by 6% and physical defence increase by 8%"/>
+<TEXT ID="5023011" Text="Critical damage increase by 3% and physical defence increase by 5%"/>
+<TEXT ID="5023021" Text="Critical damage increase by 4% and physical defence increase by 6%"/>
+<TEXT ID="5023031" Text="Critical damage increase by 5% and physical defence increase by 7%"/>
+<TEXT ID="5023041" Text="Critical damage increase by 6% and physical defence increase by 8%"/>
 <TEXT ID="5024011" Text="Effect of HP and MP potion increase by 5%"/>
 <TEXT ID="5024021" Text="Effect of HP and MP potion increase by 10%"/>
 <TEXT ID="5024031" Text="Effect of HP and MP potion increase by 15%"/>
 <TEXT ID="5024041" Text="Effect of HP and MP potion increase by 20%"/>
-<TEXT ID="5025011" Text="Critical damamge increase by 7% and physical defence increase by 10%"/>
-<TEXT ID="5025021" Text="Critical damamge increase by 8% and physical defence increase by 11%"/>
-<TEXT ID="5025031" Text="Critical damamge increase by 9% and physical defence increase by 12%"/>
-<TEXT ID="5025041" Text="Critical damamge increase by 10% and physical defence increase by 13%"/>
+<TEXT ID="5025011" Text="Critical damage increase by 7% and physical defence increase by 10%"/>
+<TEXT ID="5025021" Text="Critical damage increase by 8% and physical defence increase by 11%"/>
+<TEXT ID="5025031" Text="Critical damage increase by 9% and physical defence increase by 12%"/>
+<TEXT ID="5025041" Text="Critical damage increase by 10% and physical defence increase by 13%"/>
 <TEXT ID="5041011" Text="."/>
 <TEXT ID="5041021" Text="."/>
 <TEXT ID="5041031" Text="."/>
@@ -1013,12 +1023,32 @@ Increase EXP gain rate by 2 times for duration.
 <TEXT ID="5044031" Text="."/>
 <TEXT ID="5044041" Text="."/>
 <TEXT ID="5044051" Text="."/>
-<TEXT ID="5323011" Text="물리/마법 공격력을 3분동안 5% 증가 시킨다."/>
-<TEXT ID="5324011" Text="체력을 3분동안 5% 증가 시킨다."/>
-<TEXT ID="5325011" Text="물리/마법 방어력을 3분동안 5% 증가 시킨다."/>
-<TEXT ID="5326011" Text="이동속도를 3분동안 10% 증가 시킨다."/>
-<TEXT ID="5327011" Text="회피율을 3분동안 5% 증가 시킨다."/>
-<TEXT ID="5328011" Text="공격속도를 3분동안 5% 증가 시킨다."/>
+<TEXT ID="5323011" Text="Increases the Physical and Magical Attack of the party by 5% for 3 minutes."/>
+<TEXT ID="5324011" Text="Increases the Max HP of the party by 5% for 3 minutes."/>
+<TEXT ID="5325011" Text="Increases the Physical and Magical Defense of the party by 5% for 3 minutes."/>
+<TEXT ID="5326011" Text="Increases the Movement Speed of the party by 10% for 3 minutes."/>
+<TEXT ID="5327011" Text="Increases the Evade Rate of the party by 5% for 3 minutes."/>
+<TEXT ID="5328011" Text="Increases the Attack Speed of the party by 5% for 3 minutes."/>
+<TEXT ID="5331011" Text="Increase Phy/Mag attack by 5% and freezing effect with 3% chance."/>
+<TEXT ID="5332011" Text="Increase Phy/Mag attack by 5% and freezing effect with 3% chance."/>
+<TEXT ID="5333011" Text="Increase Phy/Mag attack by 5% and freezing effect with 3% chance."/>
+<TEXT ID="5334011" Text="Increase Phy/Mag attack by 5% and freezing effect with 3% chance."/>
+<TEXT ID="5335011" Text="Increase Phy/Mag attack by 5% and freezing effect with 3% chance."/>
+<TEXT ID="5336011" Text="Increase Phy/Mag attack by 5% and freezing effect with 3% chance."/>
+<TEXT ID="5337011" Text="Increase Phy/Mag attack by 5% and freezing effect with 3% chance."/>
+<TEXT ID="5338011" Text="Increase Phy/Mag attack by 5% and freezing effect with 3% chance."/>
+<TEXT ID="5339011" Text="Increase Phy/Mag attack by 5% and freezing effect with 3% chance."/>
+<TEXT ID="5340011" Text="Increase Phy/Mag attack by 5% and freezing effect with 3% chance."/>
+<TEXT ID="5341011" Text="Increase Phy/Mag attack by 5% and curse effect with 3% chance."/>
+<TEXT ID="5342011" Text="Increase Phy/Mag attack by 5% and curse effect with 3% chance."/>
+<TEXT ID="5343011" Text="Increase Phy/Mag attack by 5% and curse effect with 3% chance."/>
+<TEXT ID="5344011" Text="Increase Phy/Mag attack by 5% and curse effect with 3% chance."/>
+<TEXT ID="5345011" Text="Increase Phy/Mag attack by 5% and curse effect with 3% chance."/>
+<TEXT ID="5346011" Text="Increase Phy/Mag attack by 5% and curse effect with 3% chance."/>
+<TEXT ID="5347011" Text="Increase Phy/Mag attack by 5% and curse effect with 3% chance."/>
+<TEXT ID="5348011" Text="Increase Phy/Mag attack by 5% and curse effect with 3% chance."/>
+<TEXT ID="5349011" Text="Increase Phy/Mag attack by 5% and curse effect with 3% chance."/>
+<TEXT ID="5350011" Text="Increase Phy/Mag attack by 5% and curse effect with 3% chance."/>
 <TEXT ID="6064101" Text="Cannot move for 3 seconds."/>
 <TEXT ID="9002010" Text="&#34;&#34;"/>
 <TEXT ID="9002110" Text="Side Slice L"/>
@@ -1155,7 +1185,6 @@ Increase EXP gain rate by 2 times for duration.
 <TEXT ID="9023540" Text="Forward Roll"/>
 <TEXT ID="9032110" Text="Sharp Scratch R"/>
 <TEXT ID="9032120" Text="Subtle Stab2"/>
-<TEXT ID="9032130" Text="Rolling Claw"/>
 <TEXT ID="9032140" Text="Rolling Claw"/>
 <TEXT ID="9032150" Text="Rolling Claw"/>
 <TEXT ID="9032160" Text="Rolling Claw"/>
@@ -1200,11 +1229,11 @@ Increase EXP gain rate by 2 times for duration.
 <TEXT ID="9502110" Text="Energy Ball"/>
 <TEXT ID="9502120" Text="Summon Ritual"/>
 <TEXT ID="9502210" Text="Energy Ball"/>
-<TEXT ID="9502220" Text="DDDD-Translation is not needed this time."/>
-<TEXT ID="9502260" Text="DDDD-Translation is not needed this time."/>
+<TEXT ID="9502220" Text="#9502220"/>
+<TEXT ID="9502260" Text="#9502260"/>
 <TEXT ID="9502310" Text="Energy Ball"/>
-<TEXT ID="9502320" Text="DDDD-Translation is not needed this time."/>
-<TEXT ID="9502340" Text="DDDD-Translation is not needed this time."/>
+<TEXT ID="9502320" Text="#9502320"/>
+<TEXT ID="9502340" Text="#9502340"/>
 <TEXT ID="9502360" Text="Summon Evil Thorn"/>
 <TEXT ID="9502361" Text="Evil thorn will tie up the enemies for 3 seconds. Cool time 5 seconds."/>
 <TEXT ID="9502370" Text="Summon Quake Spirit"/>
@@ -1217,10 +1246,10 @@ Increase EXP gain rate by 2 times for duration.
 <TEXT ID="9502385" Text="Number of balls are increasing by charging steps"/>
 <TEXT ID="9502410" Text="Boomerang Ball"/>
 <TEXT ID="9502420" Text="Summon Red Ball"/>
-<TEXT ID="9502421" Text="Summoned spirits helps your battle.(activate it by pressing &#34;→ + Z&#34; key when the character sees the left)"/>
-<TEXT ID="9502430" Text="DDDD-Translation is not needed this time."/>
-<TEXT ID="9502440" Text="DDDD-Translation is not needed this time."/>
-<TEXT ID="9502450" Text="DDDD-Translation is not needed this time."/>
+<TEXT ID="9502421" Text="Summoned spirits helps your battle.(activate it by pressing &#34;? + Z&#34; key when the character sees the left)"/>
+<TEXT ID="9502430" Text="#9502430"/>
+<TEXT ID="9502440" Text="#9502440"/>
+<TEXT ID="9502450" Text="#9502450"/>
 <TEXT ID="9512110" Text="Reaping Throw"/>
 <TEXT ID="9512120" Text="Side Kick"/>
 <TEXT ID="9512130" Text="Lightening Jab"/>
@@ -1601,7 +1630,7 @@ Increase EXP gain rate by 2 times for duration.
 <TEXT ID="50502461" Text="Acquire upon hunting Kunkah 7 times"/>
 <TEXT ID="50502462" Text="Kunkah Veteran"/>
 <TEXT ID="50502470" Text="Kunkah Expert"/>
-<TEXT ID="50502471" Text="Acquire upon hunting Kunkah 10 times"/>
+<TEXT ID="50502471" Text="Acquire upon hunting Kunkah 12 times"/>
 <TEXT ID="50502472" Text="Kunkah Expert"/>
 <TEXT ID="50502480" Text="Kunkah Master"/>
 <TEXT ID="50502481" Text="Acquire upon hunting Kunkah 30 times"/>
@@ -1676,7 +1705,7 @@ Increase EXP gain rate by 2 times for duration.
 <TEXT ID="50502711" Text="Acquire upon hunting Burlune 55 times"/>
 <TEXT ID="50502712" Text="Burlune Expert"/>
 <TEXT ID="50502720" Text="Burlune Master"/>
-<TEXT ID="50502721" Text="Acquire upon hunting Burlune 95 times"/>
+<TEXT ID="50502721" Text="Acquire upon hunting Burlune 90 times"/>
 <TEXT ID="50502722" Text="Burlune Master"/>
 <TEXT ID="50502730" Text="Pythanous Rookie"/>
 <TEXT ID="50502731" Text="Acquire upon hunting Pythanous 1 time"/>
@@ -1831,12 +1860,32 @@ Increase EXP gain rate by 2 times for duration.
 <TEXT ID="50503250" Text="Give me a candy, Randy"/>
 <TEXT ID="50503251" Text="Can be obtained when purchase Halloween Costume Set."/>
 <TEXT ID="50503252" Text="Give me a candy, Randy"/>
-<TEXT ID="53230111" Text="물리/마법 공격력을 3분동안 5% 증가 시킨다."/>
-<TEXT ID="53240111" Text="체력을 3분동안 5% 증가 시킨다."/>
-<TEXT ID="53250111" Text="물리/마법 방어력을 3분동안 5% 증가 시킨다."/>
-<TEXT ID="53260111" Text="이동속도를 3분동안 10% 증가 시킨다."/>
-<TEXT ID="53270111" Text="회피율을 3분동안 5% 증가 시킨다."/>
-<TEXT ID="53280111" Text="공격속도를 3분동안 5% 증가 시킨다."/>
+<TEXT ID="53230111" Text="Increases the Physical and Magical Attack by 5% for 3 minutes."/>
+<TEXT ID="53240111" Text="Increases the Max HP of the party by 5% for 3 minutes."/>
+<TEXT ID="53250111" Text="Increases the Physical and Magical Defense of the party by 5% for 3 minutes."/>
+<TEXT ID="53260111" Text="Increases the Movement Speed of the party by 10% for 3 minutes."/>
+<TEXT ID="53270111" Text="Increases the Evade Rate of the party by 5% for 3 minutes."/>
+<TEXT ID="53280111" Text="Increases the Attack Speed of the party by 5% for 3 minutes."/>
+<TEXT ID="53310111" Text="Physical/Magic attack will be increased 5% and Ice Freezing effect with 3% chance for 5 min."/>
+<TEXT ID="53320111" Text="Physical/Magic attack will be increased 5% and Ice Freezing effect with 3% chance for 5 min."/>
+<TEXT ID="53330111" Text="Physical/Magic attack will be increased 5% and Ice Freezing effect with 3% chance for 5 min."/>
+<TEXT ID="53340111" Text="Physical/Magic attack will be increased 5% and Ice Freezing effect with 3% chance for 5 min."/>
+<TEXT ID="53350111" Text="Physical/Magic attack will be increased 5% and Ice Freezing effect with 3% chance for 5 min."/>
+<TEXT ID="53360111" Text="Physical/Magic attack will be increased 5% and Ice Freezing effect with 3% chance for 5 min."/>
+<TEXT ID="53370111" Text="Physical/Magic attack will be increased 5% and Ice Freezing effect with 3% chance for 5 min."/>
+<TEXT ID="53380111" Text="Physical/Magic attack will be increased 5% and Ice Freezing effect with 3% chance for 5 min."/>
+<TEXT ID="53390111" Text="Physical/Magic attack will be increased 5% and Ice Freezing effect with 3% chance for 5 min."/>
+<TEXT ID="53400111" Text="Physical/Magic attack will be increased 5% and Ice Freezing effect with 3% chance for 5 min."/>
+<TEXT ID="53410111" Text="Physical/Magic attack will be increased 5% andcurse effect with 3% chance for 5 min."/>
+<TEXT ID="53420111" Text="Physical/Magic attack will be increased 5% andcurse effect with 3% chance for 5 min."/>
+<TEXT ID="53430111" Text="Physical/Magic attack will be increased 5% andcurse effect with 3% chance for 5 min."/>
+<TEXT ID="53440111" Text="Physical/Magic attack will be increased 5% andcurse effect with 3% chance for 5 min."/>
+<TEXT ID="53450111" Text="Physical/Magic attack will be increased 5% andcurse effect with 3% chance for 5 min."/>
+<TEXT ID="53460111" Text="Physical/Magic attack will be increased 5% andcurse effect with 3% chance for 5 min."/>
+<TEXT ID="53470111" Text="Physical/Magic attack will be increased 5% andcurse effect with 3% chance for 5 min."/>
+<TEXT ID="53480111" Text="Physical/Magic attack will be increased 5% andcurse effect with 3% chance for 5 min."/>
+<TEXT ID="53490111" Text="Physical/Magic attack will be increased 5% andcurse effect with 3% chance for 5 min."/>
+<TEXT ID="53500111" Text="Physical/Magic attack will be increased 5% andcurse effect with 3% chance for 5 min."/>
 <TEXT ID="60004581" Text="Max MP is decreased by 12% for 10 seconds and HP and MP decreases per 1 second."/>
 <TEXT ID="81000101" Text="Increase tactical points gained by the party by 10% for 30 seconds. Effect is applied to all no matter who uses it. (Awakening gauge will not be increased with this skill.)"/>
 <TEXT ID="81000201" Text="Movement speed increase for the party."/>
@@ -2391,11 +2440,11 @@ Being full of love, bear&#39;s heart beats over the place and cast stun over its
 <TEXT ID="310101108" Text="Communicate with nature using Drakan Force, summon Mist for 8 minutes. Mist has 230% of health point and 65% of attack point of the summoner. Uses 1 summon point and can summon multiple Mists"/>
 <TEXT ID="310101109" Text="Communicate with nature using Drakan Force, summon Mist for 8 minutes. Mist has 240% of health point and 70% of attack point of the summoner. Uses 1 summon point and can summon multiple Mists"/>
 <TEXT ID="310101110" Text="Communicate with nature using Drakan Force, summon Mist for 8 minutes. Mist has 250% of health point and 75% of attack point of the summoner. Uses 1 summon point and can summon multiple Mists"/>
-<TEXT ID="310101201" Text="Communicate with nature using Drakan Force, summon Dyke for 4 minutes. Dyke has 250% of health point and 75% of attack point of the summoner. Uses 1 summon point and can summon multiple Dykes"/>
-<TEXT ID="310101202" Text="Communicate with nature using Drakan Force, summon Dyke for 5 minutes. Dyke has 300% of health point and 80% of attack point of the summoner. Uses 1 summon point and can summon multiple Dykes"/>
-<TEXT ID="310101203" Text="Communicate with nature using Drakan Force, summon Dyke for 6 minutes. Dyke has 350% of health point and 85% of attack point of the summoner. Uses 1 summon point and can summon multiple Dykes"/>
-<TEXT ID="310101204" Text="Communicate with nature using Drakan Force, summon Dyke for 7 minutes. Dyke has 400% of health point and 90% of attack point of the summoner. Uses 1 summon point and can summon multiple Dykes"/>
-<TEXT ID="310101205" Text="Communicate with nature using Drakan Force, summon Dyke for 8 minutes. Dyke has 450% of health point and 95% of attack point of the summoner. Uses 1 summon point and can summon multiple Dykes"/>
+<TEXT ID="310101201" Text="Communicate with nature using Drakan Force, summon Dyke for 4 minutes. Dyke has 250% of health point and 75% of attack point of the summoner. Uses 2 summon point and can summon multiple Dykes"/>
+<TEXT ID="310101202" Text="Communicate with nature using Drakan Force, summon Dyke for 5 minutes. Dyke has 300% of health point and 80% of attack point of the summoner. Uses 2 summon point and can summon multiple Dykes"/>
+<TEXT ID="310101203" Text="Communicate with nature using Drakan Force, summon Dyke for 6 minutes. Dyke has 350% of health point and 85% of attack point of the summoner. Uses 2 summon point and can summon multiple Dykes"/>
+<TEXT ID="310101204" Text="Communicate with nature using Drakan Force, summon Dyke for 7 minutes. Dyke has 400% of health point and 90% of attack point of the summoner. Uses 2 summon point and can summon multiple Dykes"/>
+<TEXT ID="310101205" Text="Communicate with nature using Drakan Force, summon Dyke for 8 minutes. Dyke has 450% of health point and 95% of attack point of the summoner. Uses 2 summon point and can summon multiple Dykes"/>
 <TEXT ID="310101206" Text="Communicate with nature using Drakan Force, summon Dyke for 8 minutes. Dyke has 350% of health point and 100% of attack point of the summoner. Uses 2 summon points and can summon multiple Dykes"/>
 <TEXT ID="310101207" Text="Communicate with nature using Drakan Force, summon Dyke for 8 minutes. Dyke has 375% of health point and 105% of attack point of the summoner. Uses 2 summon points and can summon multiple Dykes"/>
 <TEXT ID="310101208" Text="Communicate with nature using Drakan Force, summon Dyke for 8 minutes. Dyke has 400% of health point and 110% of attack point of the summoner. Uses 2 summon points and can summon multiple Dykes"/>
@@ -2444,11 +2493,11 @@ Being full of love, bear&#39;s heart beats over the place and cast stun over its
 <TEXT ID="310201101" Text="Having a contract with higher spirits, new attacking skill is added to Kalki, &#34;Tail Spin&#34;. Only applied to newly summoned Doonamik after learning skill."/>
 <TEXT ID="310201102" Text="Having a contract with higher spirits, new combo attacking skill is added to Kalki, &#34;Rising Attack&#34; after &#34;Tail Spin&#34;. Only applied to newly summoned Doonamik after learning skill."/>
 <TEXT ID="310201103" Text="Having a contract with higher spirits, new buff skill is added to Kalki, &#34;Hydro Strength&#34;. It will increase the Kalki attack point by 20%. Only applied to newly summoned Doonamik after learning skill."/>
-<TEXT ID="310201201" Text="Only can be used in air. Shot Drakan Force towards ground. Attacking 3 standing or fallen enemies once. The skill can be used by pressing ↓+ attack button during jump."/>
-<TEXT ID="310201202" Text="Only can be used in air. Shot Drakan Force towards ground. Attacking 4 standing or fallen enemies twice. The skill can be used by pressing ↓+ attack button during jump."/>
-<TEXT ID="310201203" Text="Only can be used in air. Shot Drakan Force towards ground. Attacking 5 standing or fallen enemies three times. The skill can be used by pressing ↓+ attack button during jump."/>
-<TEXT ID="310201204" Text="Only can be used in air. Shot Drakan Force towards ground. Attacking 6 standing or fallen enemies four times. The skill can be used by pressing ↓+ attack button during jump."/>
-<TEXT ID="310201205" Text="Only can be used in air. Shot Drakan Force towards ground. Attacking 7 standing or fallen enemies five times. The skill can be used by pressing ↓+ attack button during jump."/>
+<TEXT ID="310201201" Text="Only can be used in air. Shot Drakan Force towards ground. Attacking 3 standing or fallen enemies once. The skill can be used by pressing ?+ attack button during jump."/>
+<TEXT ID="310201202" Text="Only can be used in air. Shot Drakan Force towards ground. Attacking 4 standing or fallen enemies twice. The skill can be used by pressing ?+ attack button during jump."/>
+<TEXT ID="310201203" Text="Only can be used in air. Shot Drakan Force towards ground. Attacking 5 standing or fallen enemies three times. The skill can be used by pressing ?+ attack button during jump."/>
+<TEXT ID="310201204" Text="Only can be used in air. Shot Drakan Force towards ground. Attacking 6 standing or fallen enemies four times. The skill can be used by pressing ?+ attack button during jump."/>
+<TEXT ID="310201205" Text="Only can be used in air. Shot Drakan Force towards ground. Attacking 7 standing or fallen enemies five times. The skill can be used by pressing ?+ attack button during jump."/>
 <TEXT ID="310201301" Text="Summoner&#39;s basic attack rate increase by 4%."/>
 <TEXT ID="310201302" Text="Summoner&#39;s basic attack rate increase by 8%."/>
 <TEXT ID="310201303" Text="Summoner&#39;s basic attack rate increase by 12%."/>
@@ -2671,11 +2720,11 @@ If the passive skill, &#39;Hawk Eye&#39;, is learned, with &#39;Nature Recovery&
 <TEXT ID="400301801" Text="Harmony Mastery"/>
 <TEXT ID="400301901" Text="Heavy Blow"/>
 <TEXT ID="400302501" Text="Breath Difficulty"/>
-<TEXT ID="400302601" Text="하모니 축적"/>
-<TEXT ID="400302602" Text="하모니 축적"/>
-<TEXT ID="400302603" Text="하모니 축적"/>
-<TEXT ID="400302604" Text="하모니 축적"/>
-<TEXT ID="400302605" Text="하모니 축적"/>
+<TEXT ID="400302601" Text="??? ??"/>
+<TEXT ID="400302602" Text="??? ??"/>
+<TEXT ID="400302603" Text="??? ??"/>
+<TEXT ID="400302604" Text="??? ??"/>
+<TEXT ID="400302605" Text="??? ??"/>
 <TEXT ID="400302701" Text="Harmony Effect"/>
 <TEXT ID="400400101" Text="Training time"/>
 <TEXT ID="400400201" Text="One heart, One mind"/>
@@ -2805,9 +2854,9 @@ If the passive skill, &#39;Hawk Eye&#39;, is learned, with &#39;Nature Recovery&
 <TEXT ID="410201403" Text="Through fast stepping training during the stance, the enemies attack evade rate is increased by 11%."/>
 <TEXT ID="410201404" Text="Through fast stepping training during the stance, the enemies attack evade rate is increased by 13%."/>
 <TEXT ID="410201405" Text="Through fast stepping training during the stance, the enemies attack evade rate is increased by 15%."/>
-<TEXT ID="410201501" Text="Through mind training with the twin, the twin active skill total damamge is increased by 5%."/>
-<TEXT ID="410201502" Text="Through mind training with the twin, the twin active skill total damamge is increased by 7%."/>
-<TEXT ID="410201503" Text="Through mind training with the twin, the twin active skill total damamge is increased by 10%."/>
+<TEXT ID="410201501" Text="Through mind training with the twin, the twin active skill total damage is increased by 5%."/>
+<TEXT ID="410201502" Text="Through mind training with the twin, the twin active skill total damage is increased by 7%."/>
+<TEXT ID="410201503" Text="Through mind training with the twin, the twin active skill total damage is increased by 10%."/>
 <TEXT ID="410201601" Text="Through combo training, after basic 5 attacks, a finish move has been added. After 5th combo(Phoenix Kick), pressing &#34;Z&#34; key would perform &#34;Rolling Kick&#34;, a finish move."/>
 <TEXT ID="410201701" Text="By concnentrating and breathing slowly, have a calm piece of mind. The cool time for all the skill are reduced by 0.3 second."/>
 <TEXT ID="410201702" Text="By concnentrating and breathing slowly, have a calm piece of mind. The cool time for all the skill are reduced by 0.6 second."/>
@@ -3647,16 +3696,16 @@ Can be used in mid air only."/>
 Can be used in mid air only."/>
 <TEXT ID="1011027011" Text="While dashing, press Upward key and attack button to cast Dash Combo that launches enemies into the air. Maximum of 10 targets are damaged and launched into the air with Lv 1 Serious Bleeding effect."/>
 <TEXT ID="1011028011" Text="Give higher damage up to 10 enemies with hammer.Can be used in mid air only."/>
-<TEXT ID="1011032011" Text="Summon spirit of Bear to cast spinning attack on max 2 enemy targets with 1.1 times of attack power per each hit."/>
-<TEXT ID="1011032021" Text="Summon spirit of Bear to cast spinning attack on max 3 enemy targets with 1.1 times of attack power per each hit."/>
-<TEXT ID="1011032031" Text="Summon spirit of Bear to cast spinning attack on max 3 enemy targets with 1.2 times of attack power per each hit."/>
-<TEXT ID="1011032041" Text="Summon spirit of Bear to cast spinning attack on max 3 enemy targets with 1.2 times of attack power per each hit."/>
-<TEXT ID="1011032051" Text="Summon spirit of Bear to cast spinning attack on max 4 enemy targets with 1.3 times of attack power per each hit."/>
-<TEXT ID="1011032061" Text="Summon spirit of Bear to cast spinning attack on max 5 enemy targets with 1.3 times of attack power per each hit."/>
-<TEXT ID="1011032071" Text="Summon spirit of Bear to cast spinning attack on max 6 enemy targets with 1.3 times of attack power per each hit."/>
-<TEXT ID="1011032081" Text="Summon spirit of Bear to cast spinning attack on max 7 enemy targets with 1.3 times of attack power per each hit."/>
-<TEXT ID="1011032091" Text="Summon spirit of Bear to cast spinning attack on max 8 enemy targets with 1.3 times of attack power per each hit."/>
-<TEXT ID="1011032101" Text="Summon spirit of Bear to cast spinning attack on max 9 enemy targets with 1.3 times of attack power per each hit."/>
+<TEXT ID="1011032011" Text="Summon spirit of a Bear to cast spinning attack on max 2 enemy targets."/>
+<TEXT ID="1011032021" Text="Summon spirit of a Bear to cast spinning attack on max 3 enemy targets."/>
+<TEXT ID="1011032031" Text="Summon spirit of a Bear to cast spinning attack on max 3 enemy targets."/>
+<TEXT ID="1011032041" Text="Summon spirit of a Bear to cast spinning attack on max 3 enemy targets."/>
+<TEXT ID="1011032051" Text="Summon spirit of a Bear to cast spinning attack on max 4 enemy targets."/>
+<TEXT ID="1011032061" Text="Summon spirit of a Bear to cast spinning attack on max 5 enemy targets."/>
+<TEXT ID="1011032071" Text="Summon spirit of a Bear to cast spinning attack on max 6 enemy targets."/>
+<TEXT ID="1011032081" Text="Summon spirit of a Bear to cast spinning attack on max 7 enemy targets."/>
+<TEXT ID="1011032091" Text="Summon spirit of a Bear to cast spinning attack on max 8 enemy targets."/>
+<TEXT ID="1011032101" Text="Summon spirit of a Bear to cast spinning attack on max 9 enemy targets."/>
 <TEXT ID="1013001011" Text="Add +10 extra Physical Attack Power when using sword type weapon."/>
 <TEXT ID="1013001021" Text="Add +25 extra Physical Attack Power when using sword type weapon."/>
 <TEXT ID="1013001031" Text="Add +40 extra Physical Attack Power when using sword type weapon."/>
@@ -3838,8 +3887,8 @@ Can be used in mid air only."/>
 <TEXT ID="1020035091" Text="Summon stone pillar with eletric spark and attack upto 10 enemies."/>
 <TEXT ID="1020035101" Text="Summon stone pillar with eletric spark and attack upto 10 enemies."/>
 <TEXT ID="1021003011" Text="Fire 3 arrows downward from the air attacking up to 3 standing or fallen targets. Victims are launched into the air slightly. Can be activated via command key; (in mid-air) Downward + attack button."/>
-<TEXT ID="1021003021" Text="Double shot will be shot diagonally with 4 arrows. Maximum 8 standing or fallen targets will be attacked. and slightly launched. This skill is able to use ↓ + attack button while jump."/>
-<TEXT ID="1021003031" Text="Triple shot will be shot diagonally with 5 arrows. Maximum 15 standing or fallen targets will be attacked and slightly launched. This skill is able to use ↓ + attack button while jump."/>
+<TEXT ID="1021003021" Text="Double shot will be shot diagonally with 4 arrows. Maximum 8 standing or fallen targets will be attacked. and slightly launched. This skill is able to use Downward + attack button while jump."/>
+<TEXT ID="1021003031" Text="Triple shot will be shot diagonally with 5 arrows. Maximum 15 standing or fallen targets will be attacked and slightly launched. This skill is able to use Downward + attack button while jump."/>
 <TEXT ID="1021013011" Text="Fire aerial shot at 2 enemy in the air at 1 MP per each shot. Can be activated by repeatedly hitting Space Bar."/>
 <TEXT ID="1021013021" Text="Fire aerial shot at 3 enemies in the air at 1 MP per each shot. Can be activated by repeatedly hitting Space Bar."/>
 <TEXT ID="1021013031" Text="Fire aerial shot at 4 enemies in the air at 1 MP per each shot. Can be activated by repeatedly hitting Space Bar."/>
@@ -3998,12 +4047,12 @@ Can be used in mid air only."/>
 <TEXT ID="1040005021" Text="Attack 1-2 times up to 6 standing, in mid-air or fallen enemies and launch them into the air with damage. After the skill has been executed, Lv3 buff will be applied to increase the critical rate."/>
 <TEXT ID="1040005031" Text="Attack 1-3 times up to 8 standing, in mid-air or fallen enemies and launch them into the air with damage. After the skill has been executed, Lv3 buff will be applied to increase the critical rate."/>
 <TEXT ID="1040005041" Text="Attack 2-3 times up to 10 standing, in mid-air or fallen enemies and launch them into the air with damage. After the skill has been executed, Lv3 buff will be applied to increase the critical rate."/>
-<TEXT ID="1040005051" Text="Attack 3-4 times up to 12 standing, in mid-air or fallen enemies and launch them into the air with damage. After the skill has been executed, Lv3 buff will be applied to increase the critical rate."/>
-<TEXT ID="1040005061" Text="Attack max 4 times up to 12 standing, in mid-air or fallen enemies and launch them into the air with damage. After the skill has been executed, Lv3 buff will be applied to increase the critical rate."/>
-<TEXT ID="1040005071" Text="Attack max 4 times up to 12 standing, in mid-air or fallen enemies and launch them into the air with damage. After the skill has been executed, Lv3 buff will be applied to increase the critical rate."/>
-<TEXT ID="1040005081" Text="Attack max 4 times up to 12 standing, in mid-air or fallen enemies and launch them into the air with damage. After the skill has been executed, Lv3 buff will be applied to increase the critical rate."/>
-<TEXT ID="1040005091" Text="Attack max 4 times up to 12 standing, in mid-air or fallen enemies and launch them into the air with damage. After the skill has been executed, Lv3 buff will be applied to increase the critical rate."/>
-<TEXT ID="1040005101" Text="Attack max 4 times up to 12 standing, in mid-air or fallen enemies and launch them into the air with damage. After the skill has been executed, Lv3 buff will be applied to increase the critical rate."/>
+<TEXT ID="1040005051" Text="Attack 4-5 times up to 12 standing, in mid-air or fallen enemies and launch them into the air with damage. After the skill has been executed, Lv3 buff will be applied to increase the critical rate."/>
+<TEXT ID="1040005061" Text="Attack max 5 times up to 12 standing, in mid-air or fallen enemies and launch them into the air with damage. After the skill has been executed, Lv3 buff will be applied to increase the critical rate."/>
+<TEXT ID="1040005071" Text="Attack max 5 times up to 12 standing, in mid-air or fallen enemies and launch them into the air with damage. After the skill has been executed, Lv3 buff will be applied to increase the critical rate."/>
+<TEXT ID="1040005081" Text="Attack max 5 times up to 12 standing, in mid-air or fallen enemies and launch them into the air with damage. After the skill has been executed, Lv3 buff will be applied to increase the critical rate."/>
+<TEXT ID="1040005091" Text="Attack max 5 times up to 12 standing, in mid-air or fallen enemies and launch them into the air with damage. After the skill has been executed, Lv3 buff will be applied to increase the critical rate."/>
+<TEXT ID="1040005101" Text="Attack max 5 times up to 12 standing, in mid-air or fallen enemies and launch them into the air with damage. After the skill has been executed, Lv3 buff will be applied to increase the critical rate."/>
 <TEXT ID="1040006011" Text="Toggle skill activated once you used, deactivated after using it again. Burrow into ground and hide oneself from enemy up to 10 seconds. After activation, it consumes 30 MP per 3 seconds until its deactivation."/>
 <TEXT ID="1040006021" Text="Toggle skill activated once you used, deactivated after using it again. Burrow into ground and hide oneself from enemy up to 10 seconds. After activation, it consumes 27 MP per 3 seconds until its deactivation."/>
 <TEXT ID="1040006031" Text="Toggle skill activated once you used, deactivated after using it again. Burrow into ground and hide oneself from enemy up to 10 seconds. After activation, it consumes 24 MP per 3 seconds until its deactivation."/>
@@ -4059,7 +4108,7 @@ Can be used in mid air only."/>
 <TEXT ID="1043006031" Text="Cast combo attack up to 7 enemies either standing or launched, while bring them up to the air. You can attack fallen enemies from skill level 4."/>
 <TEXT ID="1043006041" Text="Cast combo attack up to 9 enemies either standing or launched, while bring them up to the air. "/>
 <TEXT ID="1043006051" Text="Cast combo attack up to 11 enemies either standing or launched, while bring them up to the air. "/>
-<TEXT ID="1043007011" Text="Critical rate and Aim rate will be increased by 1%"/>
+<TEXT ID="1043007011" Text="Increases Critical rate by 10% and Aim rate by 5%"/>
 <TEXT ID="1043007021" Text="Critical rate and Aim rate will be increased by 2%"/>
 <TEXT ID="1043007031" Text="Critical rate and Aim rate will be increased by 3%"/>
 <TEXT ID="1043007041" Text="Critical rate and Aim rate will be increased by 4%"/>
@@ -4149,46 +4198,46 @@ Can be used in mid air only."/>
 <TEXT ID="1043019031" Text="Upgrade exhaust system of Rocket Punch to increaase overall damage of it by 30%. Put Lv3 Freezing effect that will decrease the movement speed."/>
 <TEXT ID="1043019041" Text="Upgrade exhaust system of Rocket Punch to increaase overall damage of it by 40%. Put Lv3 Freezing effect that will decrease the movement speed."/>
 <TEXT ID="1043019051" Text="Upgrade exhaust system of Rocket Punch to increase overall damage of it by 50%. Put Lv3 Freezing effect that will decrease the movement speed."/>
-<TEXT ID="1043020011" Text="Increase HTL oneself and party members within the range by 3%."/>
-<TEXT ID="1043020021" Text="Increase HTL oneself and party members within the range by 6%."/>
-<TEXT ID="1043020031" Text="Increase HTL oneself and party members within the range by 9%."/>
-<TEXT ID="1043020041" Text="Increase HTL oneself and party members within the range by 12%."/>
-<TEXT ID="1043020051" Text="Increase HTL oneself and party members within the range by 15%."/>
-<TEXT ID="1043020061" Text="Increase HTL oneself and party members within the range by 18%."/>
-<TEXT ID="1043020071" Text="Increase HTL oneself and party members within the range by 21%."/>
-<TEXT ID="1043020081" Text="Increase HTL oneself and party members within the range by 24%."/>
-<TEXT ID="1043020091" Text="Increase HTL oneself and party members within the range by 27%."/>
-<TEXT ID="1043020101" Text="Increase HTL oneself and party members within the range by 30%."/>
-<TEXT ID="1043021011" Text="Increase AGI oneself and party members within the range by 9%."/>
-<TEXT ID="1043021021" Text="Increase AGI oneself and party members within the range by 13%."/>
-<TEXT ID="1043021031" Text="Increase AGI oneself and party members within the range by 17%."/>
-<TEXT ID="1043021041" Text="Increase AGI oneself and party members within the range by 21%."/>
-<TEXT ID="1043021051" Text="Increase AGI oneself and party members within the range by 25%."/>
-<TEXT ID="1043021061" Text="Increase AGI oneself and party members within the range by 28%."/>
-<TEXT ID="1043021071" Text="Increase AGI oneself and party members within the range by 31%."/>
-<TEXT ID="1043021081" Text="Increase AGI oneself and party members within the range by 34%."/>
-<TEXT ID="1043021091" Text="Increase AGI oneself and party members within the range by 37%."/>
-<TEXT ID="1043021101" Text="Increase AGI oneself and party members within the range by 40%."/>
-<TEXT ID="1043022011" Text="Increase STR oneself and party members within the range by 4%."/>
-<TEXT ID="1043022021" Text="Increase STR oneself and party members within the range by 8%."/>
-<TEXT ID="1043022031" Text="Increase STR oneself and party members within the range by 12%."/>
-<TEXT ID="1043022041" Text="Increase STR oneself and party members within the range by 16%."/>
-<TEXT ID="1043022051" Text="Increase STR oneself and party members within the range by 20%."/>
-<TEXT ID="1043022061" Text="Increase STR oneself and party members within the range by 24%."/>
-<TEXT ID="1043022071" Text="Increase STR oneself and party members within the range by 28%."/>
-<TEXT ID="1043022081" Text="Increase STR oneself and party members within the range by 32%."/>
-<TEXT ID="1043022091" Text="Increase STR oneself and party members within the range by 36%."/>
-<TEXT ID="1043022101" Text="Increase STR oneself and party members within the range by 40%."/>
-<TEXT ID="1043023011" Text="Increase INT oneself and party members within the range by 4%."/>
-<TEXT ID="1043023021" Text="Increase INT oneself and party members within the range by 8%."/>
-<TEXT ID="1043023031" Text="Increase INT oneself and party members within the range by 12%."/>
-<TEXT ID="1043023041" Text="Increase INT oneself and party members within the range by 16%."/>
-<TEXT ID="1043023051" Text="Increase INT oneself and party members within the range by 20%."/>
-<TEXT ID="1043023061" Text="Increase INT oneself and party members within the range by 24%."/>
-<TEXT ID="1043023071" Text="Increase INT oneself and party members within the range by 28%."/>
-<TEXT ID="1043023081" Text="Increase INT oneself and party members within the range by 32%."/>
-<TEXT ID="1043023091" Text="Increase INT oneself and party members within the range by 36%."/>
-<TEXT ID="1043023101" Text="Increase INT oneself and party members within the range by 40%."/>
+<TEXT ID="1043020011" Text="Increase base HLT oneself and party members within the range by 3%."/>
+<TEXT ID="1043020021" Text="Increase base HLT oneself and party members within the range by 6%."/>
+<TEXT ID="1043020031" Text="Increase base HLT oneself and party members within the range by 9%."/>
+<TEXT ID="1043020041" Text="Increase base HLT oneself and party members within the range by 12%."/>
+<TEXT ID="1043020051" Text="Increase base HLT oneself and party members within the range by 15%."/>
+<TEXT ID="1043020061" Text="Increase base HLT oneself and party members within the range by 18%."/>
+<TEXT ID="1043020071" Text="Increase base HLT oneself and party members within the range by 21%."/>
+<TEXT ID="1043020081" Text="Increase base HLT oneself and party members within the range by 24%."/>
+<TEXT ID="1043020091" Text="Increase base HLT oneself and party members within the range by 27%."/>
+<TEXT ID="1043020101" Text="Increase base HLT oneself and party members within the range by 30%."/>
+<TEXT ID="1043021011" Text="Increase base AGI oneself and party members within the range by 9%."/>
+<TEXT ID="1043021021" Text="Increase base AGI oneself and party members within the range by 13%."/>
+<TEXT ID="1043021031" Text="Increase base AGI oneself and party members within the range by 17%."/>
+<TEXT ID="1043021041" Text="Increase base AGI oneself and party members within the range by 21%."/>
+<TEXT ID="1043021051" Text="Increase base AGI oneself and party members within the range by 25%."/>
+<TEXT ID="1043021061" Text="Increase base AGI oneself and party members within the range by 28%."/>
+<TEXT ID="1043021071" Text="Increase base AGI oneself and party members within the range by 31%."/>
+<TEXT ID="1043021081" Text="Increase base AGI oneself and party members within the range by 34%."/>
+<TEXT ID="1043021091" Text="Increase base AGI oneself and party members within the range by 37%."/>
+<TEXT ID="1043021101" Text="Increase base AGI oneself and party members within the range by 40%."/>
+<TEXT ID="1043022011" Text="Increase base STR oneself and party members within the range by 4%."/>
+<TEXT ID="1043022021" Text="Increase base STR oneself and party members within the range by 8%."/>
+<TEXT ID="1043022031" Text="Increase base STR oneself and party members within the range by 12%."/>
+<TEXT ID="1043022041" Text="Increase base STR oneself and party members within the range by 16%."/>
+<TEXT ID="1043022051" Text="Increase base STR oneself and party members within the range by 20%."/>
+<TEXT ID="1043022061" Text="Increase base STR oneself and party members within the range by 24%."/>
+<TEXT ID="1043022071" Text="Increase base STR oneself and party members within the range by 28%."/>
+<TEXT ID="1043022081" Text="Increase base STR oneself and party members within the range by 32%."/>
+<TEXT ID="1043022091" Text="Increase base STR oneself and party members within the range by 36%."/>
+<TEXT ID="1043022101" Text="Increase base STR oneself and party members within the range by 40%."/>
+<TEXT ID="1043023011" Text="Increase base INT oneself and party members within the range by 4%."/>
+<TEXT ID="1043023021" Text="Increase base INT oneself and party members within the range by 8%."/>
+<TEXT ID="1043023031" Text="Increase base INT oneself and party members within the range by 12%."/>
+<TEXT ID="1043023041" Text="Increase base INT oneself and party members within the range by 16%."/>
+<TEXT ID="1043023051" Text="Increase base INT oneself and party members within the range by 20%."/>
+<TEXT ID="1043023061" Text="Increase base INT oneself and party members within the range by 24%."/>
+<TEXT ID="1043023071" Text="Increase base INT oneself and party members within the range by 28%."/>
+<TEXT ID="1043023081" Text="Increase base INT oneself and party members within the range by 32%."/>
+<TEXT ID="1043023091" Text="Increase base INT oneself and party members within the range by 36%."/>
+<TEXT ID="1043023101" Text="Increase base INT oneself and party members within the range by 40%."/>
 <TEXT ID="1043024011" Text="When using Mind Reading, add 6% Evade Rate to the amplified rate, and decrease incoming damage by 2%."/>
 <TEXT ID="1043024021" Text="When using Mind Reading, add 8% Evade Rate to the amplified rate, and decrease incoming damage by 4%."/>
 <TEXT ID="1043024031" Text="When using Mind Reading, add 10% Evade Rate to the amplified rate, and decrease incoming damage by 6%."/>
@@ -4342,11 +4391,11 @@ Can be used in mid air only."/>
 <TEXT ID="1055012031" Text="Toggle Skill. It amplifies caster and party member&#39;s Physical and Magical Defense Power by 24% and increase them 45 by consuming 12 MP per second."/>
 <TEXT ID="1055012041" Text="Toggle Skill. It amplifies caster and party member&#39;s Physical and Magical Defense Power by 32% and increase them 60 by consuming 13 MP per second."/>
 <TEXT ID="1055012051" Text="Toggle Skill. It amplifies caster and party member&#39;s Physical and Magical Defense Power by 40% and increase them 75 by consuming 14 MP per second."/>
-<TEXT ID="1055013011" Text="This skill can only be used when there is party member is around, can not be used when alone. The damage that party member get decreased by 10% and the actual damage that received will be decreased by 10% again and the skill user will get the damage instead."/>
-<TEXT ID="1055013021" Text="This skill can only be used when there is party member is around, can not be used when alone. The damage that party member get decreased by 15% and the actual damage that received will be decreased by 20% again and the skill user will get the damage instead."/>
-<TEXT ID="1055013031" Text="This skill can only be used when there is party member is around, can not be used when alone. The damage that party member get decreased by 20% and the actual damage that received will be decreased by 30% again and the skill user will get the damage instead."/>
-<TEXT ID="1055013041" Text="This skill can only be used when there is party member is around, can not be used when alone. The damage that party member get decreased by 25% and the actual damage that received will be decreased by 40% again and the skill user will get the damage instead."/>
-<TEXT ID="1055013051" Text="This skill can only be used when there is party member is around, can not be used when alone. The damage that party member get decreased by 30% and the actual damage that received will be decreased by 50% again and the skill user will get the damage instead."/>
+<TEXT ID="1055013011" Text="If this skill is used to party members, the skill user takes the damage on behalf of party member. Phy/Mag defence get increased by 10% and get 10% less damage. "/>
+<TEXT ID="1055013021" Text="If this skill is used to party members, the skill user takes the damage on behalf of party member. Phy/Mag defence get increased by 15% and get 20% less damage. "/>
+<TEXT ID="1055013031" Text="If this skill is used to party members, the skill user takes the damage on behalf of party member. Phy/Mag defence get increased by 20% and get 30% less damage. "/>
+<TEXT ID="1055013041" Text="If this skill is used to party members, the skill user takes the damage on behalf of party member. Phy/Mag defence get increased by 25% and get 40% less damage. "/>
+<TEXT ID="1055013051" Text="If this skill is used to party members, the skill user takes the damage on behalf of party member. Phy/Mag defence get increased by 30% and get 50% less damage. "/>
 <TEXT ID="1055014011" Text="Opens up the UI to repair equipment items."/>
 <TEXT ID="1055015011" Text="Attack up to 4 enemies with damages and also decrease their physical and magical attack power down by 20% for designated time. At skill level 5, victims are knocked down."/>
 <TEXT ID="1055015021" Text="Attack up to 6 enemies with damages and also decrease their physical and magical attack power down by 30% for designated time. At skill level 5, victims are knocked down."/>
@@ -4391,16 +4440,16 @@ Can be used in mid air only."/>
 <TEXT ID="1060003081" Text="Increase physical and magic defense power by 33% for 360 seconds."/>
 <TEXT ID="1060003091" Text="Increase physical and magic defense power by 34% for 360 seconds."/>
 <TEXT ID="1060003101" Text="Increase physical and magic defense power by 35% for 360 seconds."/>
-<TEXT ID="1060004011" Text="Increase attack speed and critical rate by 5% for 120 seconds."/>
-<TEXT ID="1060004021" Text="Increase attack speed and critical rate by 7% for 180 seconds."/>
-<TEXT ID="1060004031" Text="Increase attack speed and critical rate by 9% for 240 seconds."/>
-<TEXT ID="1060004041" Text="Increase attack speed and critical rate by 11% for 300 seconds."/>
-<TEXT ID="1060004051" Text="Increase attack speed and critical rate by 13% for 360 seconds."/>
-<TEXT ID="1060004061" Text="Increase attack speed and critical rate by 14% for 360 seconds."/>
-<TEXT ID="1060004071" Text="Increase attack speed and critical rate by 15% for 360 seconds."/>
-<TEXT ID="1060004081" Text="Increase attack speed and critical rate by 16% for 360 seconds."/>
-<TEXT ID="1060004091" Text="Increase attack speed and critical rate by 17% for 360 seconds."/>
-<TEXT ID="1060004101" Text="Increase attack speed and critical rate by 18% for 360 seconds."/>
+<TEXT ID="1060004011" Text="Increase attack speed by 5% and final critical success rate by 2% for 120 seconds."/>
+<TEXT ID="1060004021" Text="Increase attack speed by 7% and final critical success rate by 4% for 180 seconds."/>
+<TEXT ID="1060004031" Text="Increase attack speed by 9% and final critical success rate by 6% for 240 seconds."/>
+<TEXT ID="1060004041" Text="Increase attack speed by 11% and final critical success rate by 8% for 300 seconds."/>
+<TEXT ID="1060004051" Text="Increase attack speed by 13% and final critical success rate by 10% for 360 seconds."/>
+<TEXT ID="1060004061" Text="Increase attack speed by 14% and final critical success rate by 11% for 360 seconds."/>
+<TEXT ID="1060004071" Text="Increase attack speed by 15% and final critical success rate by 12% for 360 seconds."/>
+<TEXT ID="1060004081" Text="Increase attack speed by 16% and final critical success rate by 13% for 360 seconds."/>
+<TEXT ID="1060004091" Text="Increase attack speed by 17% and final critical success rate by 14% for 360 seconds."/>
+<TEXT ID="1060004101" Text="Increase attack speed by 18% and final critical success rate by 15% for 360 seconds."/>
 <TEXT ID="1060005011" Text="Increase movement speed and Evade Rate by 5% for 120 seconds."/>
 <TEXT ID="1060005021" Text="Increase movement speed and Evade Rate by 7% for 180 seconds."/>
 <TEXT ID="1060005031" Text="Increase movement speed and Evade Rate by 9% for 240 seconds."/>
@@ -4461,16 +4510,16 @@ Can be used in mid air only."/>
 <TEXT ID="1063003081" Text="Amplfies Physical Attack Power of the next 5 attacks (for 1 target) by 36%. Damage of attack skill can also be increased with this skill."/>
 <TEXT ID="1063003091" Text="Amplfies Physical Attack Power of the next 5 attacks (for 1 target) by 38%. Damage of attack skill can also be increased with this skill."/>
 <TEXT ID="1063003101" Text="Amplifies Physical Attack Power of the next 5 attacks (for 1 target) by 40%. Damage of attack skill can also be increased with this skill."/>
-<TEXT ID="1063004011" Text="With powerful battle cry, stun 5 enemies within the range for 1.5 second and decrease 10% of their Physical Attack Power and aim rate. "/>
-<TEXT ID="1063004021" Text="With powerful battle cry, stun 5 enemies within the range for 1.5 second and decrease 17% of their Physical Attack Power and aim rate. "/>
-<TEXT ID="1063004031" Text="With powerful battle cry, stun 5 enemies within the range for 1.5 second and decrease 24% of their Physical Attack Power and aim rate. "/>
-<TEXT ID="1063004041" Text="With powerful battle cry, stun 5 enemies within the range for 1.5 second and decrease 31% of their Physical Attack Power and aim rate. "/>
-<TEXT ID="1063004051" Text="With powerful battle cry, stun 5 enemies within the range for 1.5 second and decrease 38% of their Physical Attack Power and aim rate. "/>
-<TEXT ID="1063004061" Text="With powerful battle cry, stun 6 enemies within the range for 1.5 second and decrease 45% of their Physical Attack Power and aim rate. "/>
-<TEXT ID="1063004071" Text="With powerful battle cry, stun 7 enemies within the range for 1.5 second and decrease 52% of their Physical Attack Power and aim rate. "/>
-<TEXT ID="1063004081" Text="With powerful battle cry, stun 8 enemies within the range for 1.5 second and decrease 59% of their Physical Attack Power and aim rate. "/>
-<TEXT ID="1063004091" Text="With powerful battle cry, stun 9 enemies within the range for 1.5 second and decrease 48% of their Physical Attack Power and aim rate. "/>
-<TEXT ID="1063004101" Text="With powerful battle cry, stun 10 enemies within the range for 1.5 second and decrease 73% of their Physical Attack Power and aim rate. "/>
+<TEXT ID="1063004011" Text="With powerful battle cry, stun 5 enemies within the range for 1.5 second by 75% of probability and decrease 10% of their Final Evade Rate."/>
+<TEXT ID="1063004021" Text="With powerful battle cry, stun 5 enemies within the range for 1.5 second by 80% of probability and decrease 17% of their Final Evade Rate."/>
+<TEXT ID="1063004031" Text="With powerful battle cry, stun 5 enemies within the range for 1.5 second by 85% of probability and decrease 24% of their Final Evade Rate."/>
+<TEXT ID="1063004041" Text="With powerful battle cry, stun 5 enemies within the range for 1.5 second by 90% of probability and decrease 31% of their Final Evade Rate."/>
+<TEXT ID="1063004051" Text="With powerful battle cry, stun 5 enemies within the range for 1.5 second by 100% of probability and decrease 38% of their Final Evade Rate."/>
+<TEXT ID="1063004061" Text="With powerful battle cry, stun 5 enemies within the range for 1.5 second by 100% of probability and decrease 45% of their Final Evade Rate."/>
+<TEXT ID="1063004071" Text="With powerful battle cry, stun 5 enemies within the range for 1.5 second by 100% of probability and decrease 52% of their Final Evade Rate."/>
+<TEXT ID="1063004081" Text="With powerful battle cry, stun 5 enemies within the range for 1.5 second by 100% of probability and decrease 59% of their Final Evade Rate."/>
+<TEXT ID="1063004091" Text="With powerful battle cry, stun 5 enemies within the range for 1.5 second by 100% of probability and decrease 66% of their Final Evade Rate."/>
+<TEXT ID="1063004101" Text="With powerful battle cry, stun 5 enemies within the range for 1.5 second by 100% of probability and decrease 73% of their Final Evade Rate."/>
 <TEXT ID="1063005011" Text="Amplifies all party members&#39; total value of Physical Attack Power by 4% for 100 seconds"/>
 <TEXT ID="1063005021" Text="Amplifies all party members&#39; total value of Physical Attack Power by 6% for 120 seconds"/>
 <TEXT ID="1063005031" Text="Amplifies all party members&#39; total value of Physical Attack Power by 8% for 140 seconds"/>
@@ -4732,11 +4781,16 @@ Can be used in mid air only."/>
 <TEXT ID="1090022081" Text="Summon an octopus, give damages upto 14 enemies and blind up targets with ink for 10 seconds and dropping victims&#39; Aim and Evade Rate by 51%."/>
 <TEXT ID="1090022091" Text="Summon an octopus, give damages upto 14 enemies and blind up targets with ink for 10 seconds and dropping victims&#39; Aim and Evade Rate by 54%."/>
 <TEXT ID="1090022101" Text="Summon an octopus, give damages upto 14 enemies and blind up targets with ink for 10 seconds and dropping victims&#39; Aim and Evade Rate by 57%."/>
-<TEXT ID="1090023011" Text="Invite a penguin to the battle field. The penguin slides on the ice field in front attacking 5 enemy targets in its way. Victims are given Ice Freezing effect with 50% chance."/>
-<TEXT ID="1090023021" Text="Invite a penguin to the battle field. Th penguin slides on the ice field in front attacking 5 enemy targets in its way. Victims are given Ice Freezing effect with 55% chance."/>
-<TEXT ID="1090023031" Text="Invite a penguin to the battle field. Th penguin slides on the ice field in front attacking 5 enemy targets in its way. Victims are given Ice Freezing effect with 60% chance."/>
-<TEXT ID="1090023041" Text="Invite a penguin to the battle field. Th penguin slides on the ice field in front attacking 5 enemy targets in its way. Victims are given Ice Freezing effect with 65% chance."/>
-<TEXT ID="1090023051" Text="Invite a penguin to the battle field. The penguin slides on the ice field in front attacking 5 enemy targets in its way. Victims are given Ice Freezing effect with 70% chance."/>
+<TEXT ID="1090023011" Text="Invite a penguin to the battle field. The penguin slides on the ice field in front attacking 5 enemy targets in its way. Victims are given Ice Freezing effect with 50% chance.
+{C=0xffff2000/}Please don&#39;t skill while being in F7 mode. Doing so could result in a bugged skill!"/>
+<TEXT ID="1090023021" Text="Invite a penguin to the battle field. The penguin slides on the ice field in front attacking 5 enemy targets in its way. Victims are given Ice Freezing effect with 55% chance.
+{C=0xffff2000/}Please don&#39;t skill while being in F7 mode. Doing so could result in a bugged skill!"/>
+<TEXT ID="1090023031" Text="Invite a penguin to the battle field. The penguin slides on the ice field in front attacking 5 enemy targets in its way. Victims are given Ice Freezing effect with 60% chance.
+{C=0xffff2000/}Please don&#39;t skill while being in F7 mode. Doing so could result in a bugged skill!"/>
+<TEXT ID="1090023041" Text="Invite a penguin to the battle field. The penguin slides on the ice field in front attacking 5 enemy targets in its way. Victims are given Ice Freezing effect with 65% chance.
+{C=0xffff2000/}Please don&#39;t skill while being in F7 mode. Doing so could result in a bugged skill!"/>
+<TEXT ID="1090023051" Text="Invite a penguin to the battle field. The penguin slides on the ice field in front attacking 5 enemy targets in its way. Victims are given Ice Freezing effect with 70% chance.
+{C=0xffff2000/}Please don&#39;t skill while being in F7 mode. Doing so could result in a bugged skill!"/>
 <TEXT ID="1090024011" Text="Summon a flaming pepper that breathes out fierce fire. Attacked 5 enemy targets are given Burn effect with 50% chance. At skill level 3, fallen enemies can also be attacked."/>
 <TEXT ID="1090024021" Text="Summon a flaming pepper that breathes out fierce fire. Attacked 5 enemy targets are given Burn effect with 55% chance. At skill level 3, fallen enemies can also be attacked."/>
 <TEXT ID="1090024031" Text="Summon a flaming pepper that breathes out fierce fire. Attacked 5 standing or fallen enemy targets are given Burn effect with 60% chance."/>
@@ -4827,10 +4881,10 @@ Can be used in mid air only."/>
 <TEXT ID="1100005091" Text="Amplify total value of Physical Attack Power by 16% when using a bow."/>
 <TEXT ID="1100005101" Text="Amplify total value of Physical Attack Power by 17% when using a bow."/>
 <TEXT ID="1100007011" Text="Amplify Physical Attack Power by 12% for the next attack. Increase critical rate by 10% and attack rate will be increased. Damage of skill attack is also affected."/>
-<TEXT ID="1100007021" Text="Amplify Physical Attack Power by 14% for the next attack. Increase critical rate by 12% and attack rate will be increased. Damage of skill attack is also affected."/>
-<TEXT ID="1100007031" Text="Amplify Physical Attack Power by 16% for the next attack. Increase critical rate by 14% and attack rate will be increased. Damage of skill attack is also affected."/>
-<TEXT ID="1100007041" Text="Amplify Physical Attack Power by 18% for the next attack. Increase critical rate by 16% and attack rate will be increased. Damage of skill attack is also affected."/>
-<TEXT ID="1100007051" Text="Amplify Physical Attack Power by 20% for the next attack. Increase critical rate by 18% and attack rate will be increased. Damage of skill attack is also affected."/>
+<TEXT ID="1100007021" Text="Amplify Physical Attack Power by 14% for next 2 attacks. Increase critical rate by 12% and attack rate will be increased. Damage of skill attack is also affected."/>
+<TEXT ID="1100007031" Text="Amplify Physical Attack Power by 16% for next 3 attacks. Increase critical rate by 14% and attack rate will be increased. Damage of skill attack is also affected."/>
+<TEXT ID="1100007041" Text="Amplify Physical Attack Power by 18% for the 4 attacks. Increase critical rate by 16% and attack rate will be increased. Damage of skill attack is also affected."/>
+<TEXT ID="1100007051" Text="Amplify Physical Attack Power by 20% for the next 5 attacks. Increase critical rate by 18% and attack rate will be increased. Damage of skill attack is also affected."/>
 <TEXT ID="1100008011" Text="Set up a exploding trap that damages up to 4 targets at once upon enemy stepping on it."/>
 <TEXT ID="1100008021" Text="Set up a exploding trap that damages up to 4 targets at once upon enemy stepping on it."/>
 <TEXT ID="1100008031" Text="Set up a exploding trap that damages up to 6 targets at once upon enemy stepping on it."/>
@@ -4843,24 +4897,24 @@ Can be used in mid air only."/>
 <TEXT ID="1100009051" Text="Hypnotize enemies leading enemies to miss hit and increase caster&#39;s Evade Rate by 250%."/>
 <TEXT ID="1100010011" Text="Fire an acid arrow to attack up to 5 enemies at once. Acid arrow damages 10 HP per second and decreases Physical Defense Power by 10%. At skill level 3, fallen enemies are also attacked."/>
 <TEXT ID="1100010021" Text="Fire an acid arrow to attack up to 5 enemies at once. Acid arrow damages 15 HP per second and decreases Physical Defense Power by 15%. At skill level 3, fallen enemies are also attacked."/>
-<TEXT ID="1100010031" Text="Fire an acid arrow to attack up to 5 standing or fallen enemies at once. Acid arrow damages 20 HP per second and decreases Physical Defense Power by 20%."/>
-<TEXT ID="1100010041" Text="Fire an acid arrow to attack up to 5 standing or fallen enemies at once. Acid arrow damages 25 HP per second and decreases Physical Defense Power by 25%."/>
-<TEXT ID="1100010051" Text="Fire an acid arrow to attack up to 5 standing or fallen enemies at once. Acid arrow damages 30 HP per second and decreases Physical Defense Power by 30%."/>
-<TEXT ID="1100010061" Text="Fire an acid arrow to attack up to 5 standing or fallen enemies at once. Acid arrow damages 35 HP per second and decreases Physical Defense Power by 35%."/>
-<TEXT ID="1100010071" Text="Fire an acid arrow to attack up to 5 standing or fallen enemies at once. Acid arrow damages 40 HP per second and decreases Physical Defense Power by 40%."/>
-<TEXT ID="1100010081" Text="Fire an acid arrow to attack up to 5 standing or fallen enemies at once. Acid arrow damages 45 HP per second and decreases Physical Defense Power by 45%."/>
-<TEXT ID="1100010091" Text="Fire an acid arrow to attack up to 5 standing or fallen enemies at once. Acid arrow damages 50 HP per second and decreases Physical Defense Power by 50%."/>
-<TEXT ID="1100010101" Text="Fire an acid arrow to attack up to 5 standing or fallen enemies at once. Acid arrow damages 55 HP per second and decreases Physical Defense Power by 55%."/>
-<TEXT ID="1100011011" Text="Summon a flaming eagle to bomb the front attacking 4 standing enemies with 3 combo hit and knock them down. At skill level 3, fallen enemies can also be attacked and slightly launched into the air. At skill level 5, victims are launched to higher height."/>
-<TEXT ID="1100011021" Text="Summon a flaming eagle to bomb the front attacking 5 standing enemies with 3 combo hit and knock them down. At skill level 3, fallen enemies can also be attacked and slightly launched into the air. At skill level 5, victims are launched to higher height."/>
-<TEXT ID="1100011031" Text="Summon a flaming eagle to bomb the front attacking 6 standing or fallen enemies with 3 combo hit and slightly launch them into the air. At skill level 5, victims are launched to higher height."/>
-<TEXT ID="1100011041" Text="Summon a flaming eagle to bomb the front attacking 7 standing or fallen enemies with 3 combo hit and slightly launch them into the air. At skill level 5, victims are launched to higher height."/>
-<TEXT ID="1100011051" Text="Summon a flaming eagle to bomb the front attacking 8 standing or fallen enemies with 3 combo hit and launch them into the air."/>
-<TEXT ID="1100011061" Text="Summon a flaming eagle to bomb the front attacking 8 standing or fallen enemies with 3 combo hit and launch them into the air."/>
-<TEXT ID="1100011071" Text="Summon a flaming eagle to bomb the front attacking 10 standing or fallen enemies with 3 combo hit and launch them into the air."/>
-<TEXT ID="1100011081" Text="Summon a flaming eagle to bomb the front attacking 10 standing or fallen enemies with 3 combo hit and launch them into the air."/>
-<TEXT ID="1100011091" Text="Summon a flaming eagle to bomb the front attacking 12 standing or fallen enemies with 3 combo hit and launch them into the air."/>
-<TEXT ID="1100011101" Text="Summon a flaming eagle to bomb the front attacking 12 standing or fallen enemies with 3 combo hit and launch them into the air."/>
+<TEXT ID="1100010031" Text="Fire an acid arrow to attack up to 5 standing or fallen enemies at once. Acid arrow damages 20 HP per second and decreases Base Physical Defense Power by 20%."/>
+<TEXT ID="1100010041" Text="Fire an acid arrow to attack up to 5 standing or fallen enemies at once. Acid arrow damages 25 HP per second and decreases Base Physical Defense Power by 25%."/>
+<TEXT ID="1100010051" Text="Fire an acid arrow to attack up to 5 standing or fallen enemies at once. Acid arrow damages 30 HP per second and decreases Base Physical Defense Power by 30%."/>
+<TEXT ID="1100010061" Text="Fire an acid arrow to attack up to 5 standing or fallen enemies at once. Acid arrow damages 35 HP per second and decreases Base Physical Defense Power by 35%."/>
+<TEXT ID="1100010071" Text="Fire an acid arrow to attack up to 5 standing or fallen enemies at once. Acid arrow damages 40 HP per second and decreases Base Physical Defense Power by 40%."/>
+<TEXT ID="1100010081" Text="Fire an acid arrow to attack up to 5 standing or fallen enemies at once. Acid arrow damages 45 HP per second and decreases Base Physical Defense Power by 45%."/>
+<TEXT ID="1100010091" Text="Fire an acid arrow to attack up to 5 standing or fallen enemies at once. Acid arrow damages 50 HP per second and decreases Base Physical Defense Power by 50%."/>
+<TEXT ID="1100010101" Text="Fire an acid arrow to attack up to 5 standing or fallen enemies at once. Acid arrow damages 55 HP per second and decreases Base Physical Defense Power by 55%."/>
+<TEXT ID="1100011011" Text="Summon a flaming falcon to bomb the front attacking 4 standing enemies with 3 combo hit and knock them down. At skill level 3, fallen enemies can also be attacked and slightly launched into the air. At skill level 5, victims are launched to higher height."/>
+<TEXT ID="1100011021" Text="Summon a flaming falcon to bomb the front attacking 5 standing enemies with 3 combo hit and knock them down. At skill level 3, fallen enemies can also be attacked and slightly launched into the air. At skill level 5, victims are launched to higher height."/>
+<TEXT ID="1100011031" Text="Summon a flaming falcon to bomb the front attacking 6 standing or fallen enemies with 3 combo hit and slightly launch them into the air. At skill level 5, victims are launched to higher height."/>
+<TEXT ID="1100011041" Text="Summon a flaming falcon to bomb the front attacking 7 standing or fallen enemies with 3 combo hit and slightly launch them into the air. At skill level 5, victims are launched to higher height."/>
+<TEXT ID="1100011051" Text="Summon a flaming falcon to bomb the front attacking 8 standing or fallen enemies with 3 combo hit and launch them into the air."/>
+<TEXT ID="1100011061" Text="Summon a flaming falcon to bomb the front attacking 8 standing or fallen enemies with 3 combo hit and launch them into the air."/>
+<TEXT ID="1100011071" Text="Summon a flaming falcon to bomb the front attacking 10 standing or fallen enemies with 3 combo hit and launch them into the air."/>
+<TEXT ID="1100011081" Text="Summon a flaming falcon to bomb the front attacking 10 standing or fallen enemies with 3 combo hit and launch them into the air."/>
+<TEXT ID="1100011091" Text="Summon a flaming falcon to bomb the front attacking 12 standing or fallen enemies with 3 combo hit and launch them into the air."/>
+<TEXT ID="1100011101" Text="Summon a flaming falcon to bomb the front attacking 12 standing or fallen enemies with 3 combo hit and launch them into the air."/>
 <TEXT ID="1100012011" Text="Summon an ice wolf to attack up to 3 enemies in front with 5 combo hit. At skill level 3, fallen enemies can also be attacked and victims are slightly launched into the air. At skill level 5, victims are launched to higher height."/>
 <TEXT ID="1100012021" Text="Summon an ice wolf to attack up to 4 enemies in front with 5 combo hit. At skill level 3, fallen enemies can also be attacked and victims are slightly launched into the air. At skill level 5, victims are launched to higher height."/>
 <TEXT ID="1100012031" Text="Summon an ice wolf to attack up to 5 standing or fallen enemies in front with 5 combo hit and slightly launch them into the air. At skill level 5, victims are launched to higher height."/>
@@ -4927,11 +4981,11 @@ Can be used in mid air only."/>
 <TEXT ID="1100022031" Text="Fire arrows downward 3 times in the air by pressing forward directional key and attack button in the air."/>
 <TEXT ID="1100022041" Text="Fire arrows downward 4 times in the air by pressing forward directional key and attack button in the air."/>
 <TEXT ID="1100022051" Text="Fire arrows downward 5 times in the air by pressing forward directional key and attack button in the air."/>
-<TEXT ID="1100023011" Text="Increase Critical Hit Rate by 1.0% by concentration."/>
-<TEXT ID="1100023021" Text="Increase Critical Hit Rate by 1.5% by concentration."/>
-<TEXT ID="1100023031" Text="Increase Critical Hit Rate by 2.0% by concentration."/>
-<TEXT ID="1100023041" Text="Increase Critical Hit Rate by 2.5% by concentration."/>
-<TEXT ID="1100023051" Text="Increase Critical Hit Rate by 3.0% by concentration."/>
+<TEXT ID="1100023011" Text="Increase Critical Hit Rate by 10% by concentration."/>
+<TEXT ID="1100023021" Text="Increase Critical Hit Rate by 15% by concentration."/>
+<TEXT ID="1100023031" Text="Increase Critical Hit Rate by 20% by concentration."/>
+<TEXT ID="1100023041" Text="Increase Critical Hit Rate by 25% by concentration."/>
+<TEXT ID="1100023051" Text="Increase Critical Hit Rate by 30% by concentration."/>
 <TEXT ID="1100024011" Text="Camouflage the trap so it&#39;s not easily seen."/>
 <TEXT ID="1100025001" Text="Rapid Escape"/>
 <TEXT ID="1100025002" Text="Increases Movement Speed by 20 times for 2 seconds."/>
@@ -4982,7 +5036,7 @@ Can be used in mid air only."/>
 <TEXT ID="1100034021" Text="Upgrade Aiming skill to add +7.5 bonus to both Aim and Critical Rate."/>
 <TEXT ID="1100034031" Text="Upgrade Aiming skill to add +10 bonus to both Aim and Critical Rate."/>
 <TEXT ID="1100034041" Text="Upgrade Aiming skill to add +12.5 bonus to both Aim and Critical Rate."/>
-<TEXT ID="1100034051" Text="Upgrade Aiming skill to add +15.0 bonus to both Aim and Critical Rate."/>
+<TEXT ID="1100034051" Text="Upgrade Aiming skill to add +3% Final Critical Rate and +25% Critical Damage."/>
 <TEXT ID="1100035011" Text="Set up a continuous electrifying trap at front of the users. Higher level will increase the attack point."/>
 <TEXT ID="1100035021" Text="Set up a continuous electrifying trap at front of the users. Higher level will increase the attack point."/>
 <TEXT ID="1100035031" Text="Set up a continuous electrifying trap at front of the users. Higher level will increase the attack point."/>
@@ -5003,11 +5057,11 @@ Can be used in mid air only."/>
 <TEXT ID="1500004031" Text="Fire arrows that penetrate up to 3 enemies attacking up to 4 targets."/>
 <TEXT ID="1500004041" Text="Penetrate 4 enemy and attack up to 5 targets all at once."/>
 <TEXT ID="1500004051" Text="Penetrate 5 enemy and attack up to 6 targets all at once."/>
-<TEXT ID="1500005011" Text="Increase Aim by +10."/>
-<TEXT ID="1500005021" Text="Increase Aim by +15."/>
-<TEXT ID="1500005031" Text="Increase Aim by +20."/>
-<TEXT ID="1500005041" Text="Increase Aim by +25."/>
-<TEXT ID="1500005051" Text="Increase Aim by +30."/>
+<TEXT ID="1500005011" Text="Increase Aim by +10%."/>
+<TEXT ID="1500005021" Text="Increase Aim by +15%."/>
+<TEXT ID="1500005031" Text="Increase Aim by +20%."/>
+<TEXT ID="1500005041" Text="Increase Aim by +25%."/>
+<TEXT ID="1500005051" Text="Increase Aim by +30%."/>
 <TEXT ID="1500006011" Text="Throw a flashbang at 3 enemies and put them in Blind Effect. At skill level 3, fallen enemies can also be attacked."/>
 <TEXT ID="1500006021" Text="Throw a flashbang at 4 enemies and put them in Blind Effect. At skill level 3, fallen enemies can also be attacked."/>
 <TEXT ID="1500006031" Text="Throw a flashbang at 5 standing or fallen enemies and put them in Blind Effect. Can be used in mid-air"/>
@@ -5093,16 +5147,16 @@ Can be used in mid air only."/>
 <TEXT ID="1500019031" Text="Increase damage of skills that use Falcon."/>
 <TEXT ID="1500019041" Text="Increase damage of skills that use Falcon."/>
 <TEXT ID="1500019051" Text="Increase damage of skills that use Falcon."/>
-<TEXT ID="1500020011" Text="Summon a Phoenix to cause an explosion on the target ground that damages up to 4 enemies and launch them high into the air. Above skill level 3, fallen enemies can be attacked also."/>
-<TEXT ID="1500020021" Text="Summon a Pheonix to cause an explosion on the target ground that damages up to 5 enemies and launch them high into the air. Above skill level 3, fallen enemies can be attacked also."/>
-<TEXT ID="1500020031" Text="Summon a Pheonix to cause an explosion on the target ground that damages up to 6 enemies and launch them high into the air."/>
-<TEXT ID="1500020041" Text="Summon a Pheonix to cause an explosion on the target ground that damages up to 7 enemies and launch them high into the air."/>
-<TEXT ID="1500020051" Text="Summon a Pheonix to cause an explosion on the target ground that damages up to 8 enemies and launch them high into the air."/>
-<TEXT ID="1500020061" Text="Summon a Pheonix to cause an explosion on the target ground that damages up to 8 enemies and launch them high into the air."/>
-<TEXT ID="1500020071" Text="Summon a Pheonix to cause an explosion on the target ground that damages up to 8 enemies and launch them high into the air."/>
-<TEXT ID="1500020081" Text="Summon a Pheonix to cause an explosion on the target ground that damages up to 8 enemies and launch them high into the air."/>
-<TEXT ID="1500020091" Text="Summon a Pheonix to cause an explosion on the target ground that damages up to 8 enemies and launch them high into the air."/>
-<TEXT ID="1500020101" Text="Summon a Pheonix to cause an explosion on the target ground that damages up to 8 enemies and launch them high into the air."/>
+<TEXT ID="1500020011" Text="Summon a falcon to cause an explosion on the target ground that damages up to 4 enemies and launch them high into the air. Above skill level 3, fallen enemies can be attacked also."/>
+<TEXT ID="1500020021" Text="Summon a falcon to cause an explosion on the target ground that damages up to 5 enemies and launch them high into the air. Above skill level 3, fallen enemies can be attacked also."/>
+<TEXT ID="1500020031" Text="Summon a falcon to cause an explosion on the target ground that damages up to 6 enemies and launch them high into the air."/>
+<TEXT ID="1500020041" Text="Summon a falcon to cause an explosion on the target ground that damages up to 7 enemies and launch them high into the air."/>
+<TEXT ID="1500020051" Text="Summon a falcon to cause an explosion on the target ground that damages up to 8 enemies and launch them high into the air."/>
+<TEXT ID="1500020061" Text="Summon a falcon to cause an explosion on the target ground that damages up to 8 enemies and launch them high into the air."/>
+<TEXT ID="1500020071" Text="Summon a falcon to cause an explosion on the target ground that damages up to 8 enemies and launch them high into the air."/>
+<TEXT ID="1500020081" Text="Summon a falcon to cause an explosion on the target ground that damages up to 8 enemies and launch them high into the air."/>
+<TEXT ID="1500020091" Text="Summon a falcon to cause an explosion on the target ground that damages up to 8 enemies and launch them high into the air."/>
+<TEXT ID="1500020101" Text="Summon a falcon to cause an explosion on the target ground that damages up to 8 enemies and launch them high into the air."/>
 <TEXT ID="1500021011" Text="By concentrating fully, snipe 2 standing or fallen enemies twice with twice accuracy. The arrows would have 5 times attack point compare to normal arrows. The target will be reselected for each attack and moving or jumping would cancel the skill."/>
 <TEXT ID="1500021021" Text="By concentrating fully, snipe 2 standing or fallen enemies 3 times with twice accuracy. The arrows would have 5 times attack point compare to normal arrows. The target will be reselected for each attack and moving or jumping would cancel the skill."/>
 <TEXT ID="1500021031" Text="By concentrating fully, snipe 2 standing or fallen enemies 4 times with twice accuracy. The arrows would have 5 times attack point compare to normal arrows. The target will be reselected for each attack and moving or jumping would cancel the skill."/>
@@ -5284,10 +5338,10 @@ Can be used in mid air only."/>
 <TEXT ID="1700031011" Text="By concentrating the force to the foot, allowing you to perform fast steps. 15% increase in evade rate, 5% increase in movement speed."/>
 <TEXT ID="1700031021" Text="By concentrating the force to the foot, allowing you to perform fast steps. 20% increase in evade rate, 10% increase in movement speed."/>
 <TEXT ID="1700031031" Text="By concentrating the force to the foot, allowing you to perform fast steps. 25% increase in evade rate, 15% increase in movement speed."/>
-<TEXT ID="1800001011" Text="This is warrior’s distinctive skill. 20% of physical defense increasing buff will be given not only caster also party members and other close users."/>
-<TEXT ID="1800002011" Text="This is magician’s distinctive skill. 20% of Mana regeneration rate increasing buff will be given not only caster also party members and other close users."/>
-<TEXT ID="1800003011" Text="This is archer’s distinctive skill. 10% of movement speed 뭉 critical rate increasing buff will be given not only caster also party members and other close users."/>
-<TEXT ID="1800004011" Text="This is thief’s distinctive skill. 15% of attack speed increasing buff will be given not only caster also party members and other close users."/>
+<TEXT ID="1800001011" Text="This is warrior�s distinctive skill. 20% of physical defense increasing buff will be given not only caster also party members and other close users."/>
+<TEXT ID="1800002011" Text="This is magician�s distinctive skill. 20% of Mana regeneration rate increasing buff will be given not only caster also party members and other close users."/>
+<TEXT ID="1800003011" Text="This is archer�s distinctive skill. 10% of movement speed and 3% final critical rate increasing buff will be given not only caster also party members and other close users."/>
+<TEXT ID="1800004011" Text="This is thief�s distinctive skill. 15% of attack speed increasing buff will be given not only caster also party members and other close users."/>
 <TEXT ID="2000000011" Text="Increase guild members&#39; movement speed by 20."/>
 <TEXT ID="2000000101" Text="Awakening"/>
 <TEXT ID="2000001001" Text="Wave of Awakening"/>
@@ -5382,11 +5436,11 @@ Can be used in mid air only."/>
 <TEXT ID="2010101003" Text="Strengthen the skin with using dragon&#39;s power. Physic/Magic defense will increase 25%"/>
 <TEXT ID="2010101004" Text="Strengthen the skin with using dragon&#39;s power. Physic/Magic defense will increase 30%"/>
 <TEXT ID="2010101005" Text="Strengthen the skin with using dragon&#39;s power. Physic/Magic defense will increase 35%"/>
-<TEXT ID="2010102001" Text="Move quickly, and spin the body rapidly in a straight line. Attack all status of up to 2 enemies with 9 times. "/>
-<TEXT ID="2010102002" Text="Move quickly, and spin the body rapidly in a straight line. Attack all status of up to 3 enemies with 10 times. "/>
-<TEXT ID="2010102003" Text="Move quickly, and spin the body rapidly in a straight line. Attack all status of up to 4 enemies with 11 times. "/>
-<TEXT ID="2010102004" Text="Move quickly, and spin the body rapidly in a straight line. Attack all status of up to 5 enemies with 12 times. "/>
-<TEXT ID="2010102005" Text="Move quickly, and spin the body rapidly in a straight line. Attack all status of up to 62 enemies with 13 times. "/>
+<TEXT ID="2010102001" Text="Move quickly, and spin the body rapidly in a straight line. Hits up to 2 enemies for 9 times. "/>
+<TEXT ID="2010102002" Text="Move quickly, and spin the body rapidly in a straight line. Hits up to 3 enemies for 10 times. "/>
+<TEXT ID="2010102003" Text="Move quickly, and spin the body rapidly in a straight line. Hits up to 4 enemies for 11 times. "/>
+<TEXT ID="2010102004" Text="Move quickly, and spin the body rapidly in a straight line. Hits up to 5 enemies for 12 times. "/>
+<TEXT ID="2010102005" Text="Move quickly, and spin the body rapidly in a straight line. Hits up to 6 enemies for 13 times. "/>
 <TEXT ID="2010110101" Text="[Awakening Skill] With Dragon power, Riding a ascending dragon, launch the enemy with rapid attack 6 times which is standing or mid-air. Above level 5, fallen enemy can be attacked"/>
 <TEXT ID="2010110102" Text="[Awakening Skill] With Dragon power, Riding a ascending dragon, launch the enemy with rapid attack 7 times which is standing or mid-air. Above level 5, fallen enemy can be attacked"/>
 <TEXT ID="2010110103" Text="[Awakening Skill] With Dragon power, Riding a ascending dragon, launch the enemy with rapid attack 8 times which is standing or mid-air. Above level 5, fallen enemy can be attacked"/>
@@ -5397,36 +5451,36 @@ Can be used in mid air only."/>
 <TEXT ID="2010120103" Text="[Awakening Skill] With Dragon Power, diving attack with powerful spin. Attack more than 7 times all status of up to 8 enemies. Final attack will launch the enemies."/>
 <TEXT ID="2010120104" Text="[Awakening Skill] With Dragon Power, diving attack with powerful spin. Attack more than 7 times all status of up to 9 enemies. Final attack will launch the enemies."/>
 <TEXT ID="2010120105" Text="[Awakening Skill] With Dragon Power, diving attack with powerful spin. Attack more than 8 times all status of up to 10 enemies. Final attack will launch the enemies."/>
-<TEXT ID="2010201001" Text="With God of Ruins, Bultan’s Power, by control the respiratory, movement speed will be increased 8% permanently."/>
-<TEXT ID="2010201002" Text="With God of Ruins, Bultan’s Power, by control the respiratory, movement speed will be increased 10% permanently."/>
-<TEXT ID="2010201003" Text="With God of Ruins, Bultan’s Power, by control the respiratory, movement speed will be increased 12% permanently."/>
-<TEXT ID="2010201004" Text="With God of Ruins, Bultan’s Power, by control the respiratory, movement speed will be increased 14% permanently."/>
-<TEXT ID="2010201005" Text="With God of Ruins, Bultan’s Power, by control the respiratory, movement speed will be increased 16% permanently."/>
-<TEXT ID="2010202001" Text="Summon Bultan’s hand, bring 2 enemies which are in the mid-air, in front of the user. Targets will be stunned."/>
-<TEXT ID="2010202002" Text="Summon Bultan’s hand, bring 4 enemies which are in the mid-air, in front of the user. Targets will be stunned."/>
-<TEXT ID="2010202003" Text="Summon Bultan’s hand, bring 6 enemies which are in the mid-air, in front of the user. Targets will be stunned."/>
-<TEXT ID="2010202004" Text="Summon Bultan’s hand, bring 8 enemies which are in the mid-air, in front of the user. Targets will be stunned."/>
-<TEXT ID="2010202005" Text="Summon Bultan’s hand, bring 10 enemies which are in the mid-air, in front of the user. Targets will be stunned."/>
+<TEXT ID="2010201001" Text="With God of Ruins, Bultan�s Power, by control the respiratory, movement speed will be increased 8% permanently."/>
+<TEXT ID="2010201002" Text="With God of Ruins, Bultan�s Power, by control the respiratory, movement speed will be increased 10% permanently."/>
+<TEXT ID="2010201003" Text="With God of Ruins, Bultan�s Power, by control the respiratory, movement speed will be increased 12% permanently."/>
+<TEXT ID="2010201004" Text="With God of Ruins, Bultan�s Power, by control the respiratory, movement speed will be increased 14% permanently."/>
+<TEXT ID="2010201005" Text="With God of Ruins, Bultan�s Power, by control the respiratory, movement speed will be increased 16% permanently."/>
+<TEXT ID="2010202001" Text="Summon Bultan�s hand, bring 2 enemies which are in the mid-air, in front of the user. Targets will be stunned."/>
+<TEXT ID="2010202002" Text="Summon Bultan�s hand, bring 4 enemies which are in the mid-air, in front of the user. Targets will be stunned."/>
+<TEXT ID="2010202003" Text="Summon Bultan�s hand, bring 6 enemies which are in the mid-air, in front of the user. Targets will be stunned."/>
+<TEXT ID="2010202004" Text="Summon Bultan�s hand, bring 8 enemies which are in the mid-air, in front of the user. Targets will be stunned."/>
+<TEXT ID="2010202005" Text="Summon Bultan�s hand, bring 10 enemies which are in the mid-air, in front of the user. Targets will be stunned."/>
 <TEXT ID="2010210101" Text="Summon God of Ruins, Bultan, with Blood Covenant, attack in front of 6 enemies with knock back. Fallen enemies are attacked also."/>
 <TEXT ID="2010210102" Text="Summon God of Ruins, Bultan, with Blood Covenant, attack in front of 7 enemies with knock back. Fallen enemies are attacked also."/>
 <TEXT ID="2010210103" Text="Summon God of Ruins, Bultan, with Blood Covenant, attack in front of 8 enemies with knock back. Fallen enemies are attacked also."/>
 <TEXT ID="2010210104" Text="Summon God of Ruins, Bultan, with Blood Covenant, attack in front of 9 enemies with knock back. Fallen enemies are attacked also."/>
 <TEXT ID="2010210105" Text="Summon God of Ruins, Bultan, with Blood Covenant, attack in front of 10 enemies with knock back. Fallen enemies are attacked also."/>
-<TEXT ID="2010210201" Text="Transfer God of Ruins, Bultan’s Power to the sword with Blood Covenant. Able to charge maximum 3 levels. If user wants to cast during charging, press “Z”. Automatically active when charging is completed. Additional damages in tooltips are maximum damage w"/>
-<TEXT ID="2010210202" Text="Transfer God of Ruins, Bultan’s Power to the sword with Blood Covenant. Able to charge maximum 3 levels. If user wants to cast during charging, press “Z”. Automatically active when charging is completed. Additional damages in tooltips are maximum damage w"/>
-<TEXT ID="2010210203" Text="Transfer God of Ruins, Bultan’s Power to the sword with Blood Covenant. Able to charge maximum 3 levels. If user wants to cast during charging, press “Z”. Automatically active when charging is completed. Additional damages in tooltips are maximum damage w"/>
-<TEXT ID="2010210204" Text="Transfer God of Ruins, Bultan’s Power to the sword with Blood Covenant. Able to charge maximum 3 levels. If user wants to cast during charging, press “Z”. Automatically active when charging is completed. Additional damages in tooltips are maximum damage w"/>
-<TEXT ID="2010210205" Text="Transfer God of Ruins, Bultan’s Power to the sword with Blood Covenant. Able to charge maximum 3 levels. If user wants to cast during charging, press “Z”. Automatically active when charging is completed. Additional damages in tooltips are maximum damage w"/>
-<TEXT ID="2010301001" Text="Organizing body’s blood flow, permanently increase regeneration speed/rate of HP/MP. HP/MP increase regeneration speed 10%, rate 50."/>
-<TEXT ID="2010301002" Text="Organizing body’s blood flow, permanently increase regeneration speed/rate of HP/MP. HP/MP increase regeneration speed 12%, rate 80."/>
-<TEXT ID="2010301003" Text="Organizing body’s blood flow, permanently increase regeneration speed/rate of HP/MP. HP/MP increase regeneration speed 14%, rate 110."/>
-<TEXT ID="2010301004" Text="Organizing body’s blood flow, permanently increase regeneration speed/rate of HP/MP. HP/MP increase regeneration speed 16%, rate 140."/>
-<TEXT ID="2010301005" Text="Organizing body’s blood flow, permanently increase regeneration speed/rate of HP/MP. HP/MP increase regeneration speed 18%, rate 170."/>
-<TEXT ID="2010302001" Text="Connect healing light to the party player who is in the range. With continuously consumes MP, refilling target’s HP 5% per one second. Receiving player should be in the range to get healing effect. Higher skill level will increase caster’s movement and de"/>
-<TEXT ID="2010302002" Text="Connect healing light to the party player who is in the range. With continuously consumes MP, refilling target’s HP 5% per one second. Receiving player should be in the range to get healing effect. Higher skill level will increase caster’s movement and de"/>
-<TEXT ID="2010302003" Text="Connect healing light to the party player who is in the range. With continuously consumes MP, refilling target’s HP 5% per one second. Receiving player should be in the range to get healing effect. Higher skill level will increase caster’s movement and de"/>
-<TEXT ID="2010302004" Text="Connect healing light to the party player who is in the range. With continuously consumes MP, refilling target’s HP 5% per one second. Receiving player should be in the range to get healing effect. Higher skill level will increase caster’s movement and de"/>
-<TEXT ID="2010302005" Text="Connect healing light to the party player who is in the range. With continuously consumes MP, refilling target’s HP 5% per one second. Receiving player should be in the range to get healing effect. Higher skill level will increase caster’s movement and de"/>
+<TEXT ID="2010210201" Text="Transfer God of Ruins, Bultan�s Power to the sword with Blood Covenant. Able to charge maximum 3 levels. If user wants to cast during charging, press �Z�. Automatically active when charging is completed. Additional damages in tooltips are maximum damage w"/>
+<TEXT ID="2010210202" Text="Transfer God of Ruins, Bultan�s Power to the sword with Blood Covenant. Able to charge maximum 3 levels. If user wants to cast during charging, press �Z�. Automatically active when charging is completed. Additional damages in tooltips are maximum damage w"/>
+<TEXT ID="2010210203" Text="Transfer God of Ruins, Bultan�s Power to the sword with Blood Covenant. Able to charge maximum 3 levels. If user wants to cast during charging, press �Z�. Automatically active when charging is completed. Additional damages in tooltips are maximum damage w"/>
+<TEXT ID="2010210204" Text="Transfer God of Ruins, Bultan�s Power to the sword with Blood Covenant. Able to charge maximum 3 levels. If user wants to cast during charging, press �Z�. Automatically active when charging is completed. Additional damages in tooltips are maximum damage w"/>
+<TEXT ID="2010210205" Text="Transfer God of Ruins, Bultan�s Power to the sword with Blood Covenant. Able to charge maximum 3 levels. If user wants to cast during charging, press �Z�. Automatically active when charging is completed. Additional damages in tooltips are maximum damage w"/>
+<TEXT ID="2010301001" Text="Organizing body�s blood flow, permanently increase regeneration speed/rate of HP/MP. HP/MP increase regeneration speed 10%, rate 50."/>
+<TEXT ID="2010301002" Text="Organizing body�s blood flow, permanently increase regeneration speed/rate of HP/MP. HP/MP increase regeneration speed 12%, rate 80."/>
+<TEXT ID="2010301003" Text="Organizing body�s blood flow, permanently increase regeneration speed/rate of HP/MP. HP/MP increase regeneration speed 14%, rate 110."/>
+<TEXT ID="2010301004" Text="Organizing body�s blood flow, permanently increase regeneration speed/rate of HP/MP. HP/MP increase regeneration speed 16%, rate 140."/>
+<TEXT ID="2010301005" Text="Organizing body�s blood flow, permanently increase regeneration speed/rate of HP/MP. HP/MP increase regeneration speed 18%, rate 170."/>
+<TEXT ID="2010302001" Text="Connect healing light to the party player who is in the range. With continuously consumes MP, refilling target�s HP 5% per one second. Receiving player should be in the range to get healing effect. Higher skill level will increase caster�s movement and de"/>
+<TEXT ID="2010302002" Text="Connect healing light to the party player who is in the range. With continuously consumes MP, refilling target�s HP 5% per one second. Receiving player should be in the range to get healing effect. Higher skill level will increase caster�s movement and de"/>
+<TEXT ID="2010302003" Text="Connect healing light to the party player who is in the range. With continuously consumes MP, refilling target�s HP 5% per one second. Receiving player should be in the range to get healing effect. Higher skill level will increase caster�s movement and de"/>
+<TEXT ID="2010302004" Text="Connect healing light to the party player who is in the range. With continuously consumes MP, refilling target�s HP 5% per one second. Receiving player should be in the range to get healing effect. Higher skill level will increase caster�s movement and de"/>
+<TEXT ID="2010302005" Text="Connect healing light to the party player who is in the range. With continuously consumes MP, refilling target�s HP 5% per one second. Receiving player should be in the range to get healing effect. Higher skill level will increase caster�s movement and de"/>
 <TEXT ID="2010310101" Text="[Awakening Skill] Summon lightning elemental, drag in front of 5 enemies besides creature once in a 0.9 second during 6 seconds"/>
 <TEXT ID="2010310102" Text="[Awakening Skill] Summon lightning elemental, drag in front of 5 enemies besides creature once in a 0.8 second during 7 seconds"/>
 <TEXT ID="2010310103" Text="[Awakening Skill] Summon lightning elemental, drag in front of 5 enemies besides creature once in a 0.7 second during 8 seconds"/>
@@ -5437,11 +5491,11 @@ Can be used in mid air only."/>
 <TEXT ID="2010320103" Text="[Awakening Skill] Summon lightning elemental, dropping strong blitz to the front. Attack 2 times up to 12 enemies with level 5 stun. Higher skill level will increase damage/range."/>
 <TEXT ID="2010320104" Text="[Awakening Skill] Summon lightning elemental, dropping strong blitz to the front. Attack 3 times up to 14 enemies with level 5 stun. Higher skill level will increase damage/range."/>
 <TEXT ID="2010320105" Text="[Awakening Skill] Summon lightning elemental, dropping strong blitz to the front. Attack 4 times up to 16 enemies with level 5 stun. Higher skill level will increase damage/range."/>
-<TEXT ID="2010401001" Text="With Blood Pledge with Evil Presence, spear type weapon’s magic attack will be increased 10% permanently."/>
-<TEXT ID="2010401002" Text="With Blood Pledge with Evil Presence, spear type weapon’s magic attack will be increased 12% permanently."/>
-<TEXT ID="2010401003" Text="With Blood Pledge with Evil Presence, spear type weapon’s magic attack will be increased 14% permanently."/>
-<TEXT ID="2010401004" Text="With Blood Pledge with Evil Presence, spear type weapon’s magic attack will be increased 16% permanently."/>
-<TEXT ID="2010401005" Text="With Blood Pledge with Evil Presence, spear type weapon’s magic attack will be increased 18% permanently."/>
+<TEXT ID="2010401001" Text="With Blood Pledge with Evil Presence, spear type weapon�s magic attack will be increased 10% permanently."/>
+<TEXT ID="2010401002" Text="With Blood Pledge with Evil Presence, spear type weapon�s magic attack will be increased 12% permanently."/>
+<TEXT ID="2010401003" Text="With Blood Pledge with Evil Presence, spear type weapon�s magic attack will be increased 14% permanently."/>
+<TEXT ID="2010401004" Text="With Blood Pledge with Evil Presence, spear type weapon�s magic attack will be increased 16% permanently."/>
+<TEXT ID="2010401005" Text="With Blood Pledge with Evil Presence, spear type weapon�s magic attack will be increased 18% permanently."/>
 <TEXT ID="2010402001" Text="Caster can stop the time up to 6 enemies using magical power. Targets will stop no matter any status. Higher skill level would increase the effective regions."/>
 <TEXT ID="2010402002" Text="Caster can stop the time up to 7 enemies using magical power. Targets will stop no matter any status. Higher skill level would increase the effective regions."/>
 <TEXT ID="2010402003" Text="Caster can stop the time up to 8 enemies using magical power. Targets will stop no matter any status. Higher skill level would increase the effective regions."/>
@@ -5452,16 +5506,16 @@ Can be used in mid air only."/>
 <TEXT ID="2010410103" Text="[Awakening Skill] Summon dark elemental, erupting magma from the earth. Launch attack up to 16 enemies with continuous damage."/>
 <TEXT ID="2010410104" Text="[Awakening Skill] Summon dark elemental, erupting magma from the earth. Launch attack up to 18 enemies with continuous damage."/>
 <TEXT ID="2010410105" Text="[Awakening Skill] Summon dark elemental, erupting magma from the earth. Launch attack up to 20 enemies with continuous damage."/>
-<TEXT ID="2010420101" Text="[Awakening Skill] Summon dark elemental, blockade up to 8 enemies in the range. Suck targets’ soul up to 3 times during certain period. Target which is attacked last, have level 1 loss of eyesight effect."/>
-<TEXT ID="2010420102" Text="[Awakening Skill] Summon dark elemental, blockade up to 9 enemies in the range. Suck targets’ soul up to 4 times during certain period. Target which is attacked last, have level 2 loss of eyesight effect."/>
-<TEXT ID="2010420103" Text="[Awakening Skill] Summon dark elemental, blockade up to 10 enemies in the range. Suck targets’ soul up to 5 times during certain period. Target which is attacked last, have level 3 loss of eyesight effect."/>
-<TEXT ID="2010420104" Text="[Awakening Skill] Summon dark elemental, blockade up to 11 enemies in the range. Suck targets’ soul up to 6 times during certain period. Target which is attacked last, have level 4 loss of eyesight effect."/>
-<TEXT ID="2010420105" Text="[Awakening Skill] Summon dark elemental, blockade up to 12 enemies in the range. Suck targets’ soul up to 7 times during certain period. Target which is attacked last, have level 5 loss of eyesight effect."/>
-<TEXT ID="2010501001" Text="With Wind Saber’s Power, bow type attack speed will be increased 4% permanently."/>
-<TEXT ID="2010501002" Text="With Wind Saber’s Power, bow type attack speed will be increased 5% permanently."/>
-<TEXT ID="2010501003" Text="With Wind Saber’s Power, bow type attack speed will be increased 6% permanently."/>
-<TEXT ID="2010501004" Text="With Wind Saber’s Power, bow type attack speed will be increased 7% permanently."/>
-<TEXT ID="2010501005" Text="With Wind Saber’s Power, bow type attack speed will be increased 8% permanently."/>
+<TEXT ID="2010420101" Text="[Awakening Skill] Summon dark elemental, blockade up to 8 enemies in the range. Suck targets� soul up to 3 times during certain period. Target which is attacked last, have level 1 loss of eyesight effect."/>
+<TEXT ID="2010420102" Text="[Awakening Skill] Summon dark elemental, blockade up to 9 enemies in the range. Suck targets� soul up to 4 times during certain period. Target which is attacked last, have level 2 loss of eyesight effect."/>
+<TEXT ID="2010420103" Text="[Awakening Skill] Summon dark elemental, blockade up to 10 enemies in the range. Suck targets� soul up to 5 times during certain period. Target which is attacked last, have level 3 loss of eyesight effect."/>
+<TEXT ID="2010420104" Text="[Awakening Skill] Summon dark elemental, blockade up to 11 enemies in the range. Suck targets� soul up to 6 times during certain period. Target which is attacked last, have level 4 loss of eyesight effect."/>
+<TEXT ID="2010420105" Text="[Awakening Skill] Summon dark elemental, blockade up to 12 enemies in the range. Suck targets� soul up to 7 times during certain period. Target which is attacked last, have level 5 loss of eyesight effect."/>
+<TEXT ID="2010501001" Text="With Wind Saber�s Power, bow type attack speed will be increased 4% permanently."/>
+<TEXT ID="2010501002" Text="With Wind Saber�s Power, bow type attack speed will be increased 5% permanently."/>
+<TEXT ID="2010501003" Text="With Wind Saber�s Power, bow type attack speed will be increased 6% permanently."/>
+<TEXT ID="2010501004" Text="With Wind Saber�s Power, bow type attack speed will be increased 7% permanently."/>
+<TEXT ID="2010501005" Text="With Wind Saber�s Power, bow type attack speed will be increased 8% permanently."/>
 <TEXT ID="2010502001" Text="Throw 5 hooks the face of the caster with pie shape, drag targets in front of caster with level 1 stun. Higher level skill, increase efficiency. One hook is able to drag 2 enemies."/>
 <TEXT ID="2010502002" Text="Throw 5 hooks the face of the caster with pie shape, drag targets in front of caster with level 1 stun. Higher level skill, increase efficiency. One hook is able to drag 3 enemies."/>
 <TEXT ID="2010502003" Text="Throw 5 hooks the face of the caster with pie shape, drag targets in front of caster with level 2 stun. Higher level skill, increase efficiency. One hook is able to drag 4 enemies."/>
@@ -5507,11 +5561,11 @@ Can be used in mid air only."/>
 <TEXT ID="2010702003" Text="Quickly throw claw, drag 3 enemies in front of the caster. Targets will have level 2 stun."/>
 <TEXT ID="2010702004" Text="Quickly throw claw, drag 4 enemies in front of the caster. Targets will have level 2 stun."/>
 <TEXT ID="2010702005" Text="Quickly throw claw, drag 5 enemies in front of the caster. Targets will have level 3 stun."/>
-<TEXT ID="2010710101" Text="[Awakening Skill] Summon evil spirit, attack 3 times up to 8 enemies with yelling “Death Shouting” to the front. It’s not powerful but, enemies will have level 3 stun effect."/>
-<TEXT ID="2010710102" Text="[Awakening Skill] Summon evil spirit, attack 4 times up to 10 enemies with yelling “Death Shouting” to the front. It’s not powerful but, enemies will have level 4 stun effect."/>
-<TEXT ID="2010710103" Text="[Awakening Skill] Summon evil spirit, attack 4 times up to 12 enemies with yelling “Death Shouting” to the front. It’s not powerful but, enemies will have level 5 stun effect."/>
-<TEXT ID="2010710104" Text="[Awakening Skill] Summon evil spirit, attack 5 times up to 14 enemies with yelling “Death Shouting” to the front. It’s not powerful but, enemies will have level 6 stun effect."/>
-<TEXT ID="2010710105" Text="[Awakening Skill] Summon evil spirit, attack 6 times up to 16 enemies with yelling “Death Shouting” to the front. It’s not powerful but, enemies will have level 7 stun effect."/>
+<TEXT ID="2010710101" Text="[Awakening Skill] Summon evil spirit, attack 3 times up to 8 enemies with yelling �Death Shouting� to the front. It�s not powerful but, enemies will have level 3 stun effect."/>
+<TEXT ID="2010710102" Text="[Awakening Skill] Summon evil spirit, attack 4 times up to 10 enemies with yelling �Death Shouting� to the front. It�s not powerful but, enemies will have level 4 stun effect."/>
+<TEXT ID="2010710103" Text="[Awakening Skill] Summon evil spirit, attack 4 times up to 12 enemies with yelling �Death Shouting� to the front. It�s not powerful but, enemies will have level 5 stun effect."/>
+<TEXT ID="2010710104" Text="[Awakening Skill] Summon evil spirit, attack 5 times up to 14 enemies with yelling �Death Shouting� to the front. It�s not powerful but, enemies will have level 6 stun effect."/>
+<TEXT ID="2010710105" Text="[Awakening Skill] Summon evil spirit, attack 6 times up to 16 enemies with yelling �Death Shouting� to the front. It�s not powerful but, enemies will have level 7 stun effect."/>
 <TEXT ID="2010720101" Text="[Awakening Skill] Summon evil spirit, according to contract, evil controls caster. Rush to the front attack 14 times and the target that attacked last, launch to the air. Target will have level 3 stun effect."/>
 <TEXT ID="2010720102" Text="[Awakening Skill] Summon evil spirit, according to contract, evil controls caster. Rush to the front attack 14 times and the target that attacked last, launch to the air. Target will have level 4 stun effect."/>
 <TEXT ID="2010720103" Text="[Awakening Skill] Summon evil spirit, according to contract, evil controls caster. Rush to the front attack 14 times and the target that attacked last, launch to the air. Target will have level 5 stun effect."/>
@@ -5537,22 +5591,37 @@ Can be used in mid air only."/>
 <TEXT ID="2010820103" Text="[Awakening Skill] Casting mystery of secret art, summon evil Ninja, rapidly mutilate up to 12 enemies with 4 times. Target that attacked last, launch to the air. Cannot use when transform to Ninja."/>
 <TEXT ID="2010820104" Text="[Awakening Skill] Casting mystery of secret art, summon evil Ninja, rapidly mutilate up to 14 enemies with 4 times. Target that attacked last, launch to the air. Cannot use when transform to Ninja."/>
 <TEXT ID="2010820105" Text="[Awakening Skill] Casting mystery of secret art, summon evil Ninja, rapidly mutilate up to 16 enemies with 4 times. Target that attacked last, launch to the air. Cannot use when transform to Ninja."/>
-<TEXT ID="2019110101" Text="This is ultimate skill of Dragon Knight. Summon the pre-contracted dragons to manage the enemies in the entire map. 8 physical attacks with electronic final attack up to 20 enemies. During casting, character will be unbeatable. This skill is not allowed t"/>
+<TEXT ID="2019110101" Text="This is ultimate skill of Dragon Knight. Summon the pre-contracted dragons to manage the enemies in the entire map. 8 physical attacks with electronic final attack up to 20 enemies. During casting, character will be unbeatable. This skill is not allowed to use durning PvP."/>
 <TEXT ID="2019111101" Text="Do not translate"/>
-<TEXT ID="2019210101" Text="This is ultimate skill of Destroyer. Summon the God Ruins, Bultan, give to monsters physical 2 combo  damages with explosion damage with final attack. The monsters which attacked final attack, will affect Lv5 slow debuff. During casting, character will be"/>
+<TEXT ID="2019210101" Text="This is ultimate skill of Destroyer. Summon the God Ruins, Bultan, give to monsters physical 2 combo� damages with explosion damage with final attack. The monsters which attacked final attack, will affect Lv5 slow debuff. During casting, character will be unbeatable. This skill is not allowed to use durning PvP."/>
 <TEXT ID="2019211101" Text="Do not translate"/>
-<TEXT ID="2019310101" Text="Summon Lightning Elemental, attack the monsters entire of the map. 10 electronic combo attacks up to 20 monsters with more powerful final electronic attack. During casting, character will be unbeatable. This skill is not allow to use during PvP."/>
+<TEXT ID="2019310101" Text="Summon Lightning Elemental, attack the monsters entire of the map. 10 electronic combo attacks up to 20 monsters with more powerful final electronic attack. During casting, character will be unbeatable. This skill is not allowed to use during PvP."/>
 <TEXT ID="2019311101" Text="Do not translate"/>
-<TEXT ID="2019410101" Text="One of the highest Dark magic which reverse the gravity. Control the gravity to attack the monsters. Attack 3 gravity combos up to 20 monsters with more powerful last three attacks. During casting, character will be unbeatable. This skill is not allowed t"/>
+<TEXT ID="2019410101" Text="One of the highest Dark magic which reverse the gravity. Control the gravity to attack the monsters. Attack 3 gravity combos up to 20 monsters with more powerful last three attacks. During casting, character will be unbeatable. This skill is not allowed to use durning PvP."/>
 <TEXT ID="2019411101" Text="Do not translate"/>
 <TEXT ID="2019510101" Text="Summon the automatic attack machine, which is one of the finest technologies of war. It overwhelms the field. Attack 15 combos up to 20 monsters with final bomb throw. During casting, character will be unbeatable. This skill is not allowed to use during PvP."/>
 <TEXT ID="2019511101" Text="Do not translate"/>
-<TEXT ID="2019610101" Text="This is ultimate skill of Sentinel. Throw lots of feathers entire map to attack monsters. Attack with 60 feathers up to 20 monsters with final bombing attack by Wind Saber. During casting, character will be unbeatable. This skill is not allowed to use dur"/>
+<TEXT ID="2019610101" Text="This is ultimate skill of Sentinel. Throw lots of feathers entire map to attack monsters. Attack with 60 feathers up to 20 monsters with final bombing attack by Wind Saber. During casting, character will be unbeatable. This skill is not allowed to use durning PvP."/>
 <TEXT ID="2019611101" Text="Do not translate"/>
-<TEXT ID="2019710101" Text="Play Death Concert with evil spirit. No one will survive who hear the music. 8 combos of sonic attack up to 20 monsters with final attack will cause Lv5 stun to monsters. During casting, character will be unbeatable. This skill is not allowed to use durin"/>
+<TEXT ID="2019710101" Text="Play Death Concert with evil spirit. No one will survive who hear the music. 8 combos of sonic attack up to 20 monsters with final attack will cause Lv5 stun to monsters. During casting, character will be unbeatable. This skill is not allowed to use durning PvP."/>
 <TEXT ID="2019711101" Text="Do not translate"/>
 <TEXT ID="2019810101" Text="This is ultimate skill for Shadow. Cast mystery of secret art, summon 8 Sura Ninja, to attack up to 8 monsters. During casting, character will be unbeatable. This skill is not allowed to use during PvP."/>
 <TEXT ID="2019811101" Text="Do not translate"/>
+
+<TEXT ID="1003022011" Text="Superior HP Potion"/>
+<TEXT ID="1003023011" Text="Superior MP Potion"/>
+<TEXT ID="1003024011" Text="Premium HP Potion"/>
+<TEXT ID="1003025011" Text="Premium MP Potion"/>
+
+<TEXT ID="50503205" Text="World Unite Hero"/>
+<TEXT ID="50503206" Text="Unite Event Questchain completed"/>
+<TEXT ID="50503207" Text="Achievement for completing the Players of the World Unite! Questchain"/>
+<TEXT ID="50503215" Text="World Savior"/>
+<TEXT ID="50503216" Text="Saved all World's Emblems"/>
+<TEXT ID="50503217" Text="Achievement for completing the World's Emblems Questchain"/>
+
+<TEXT ID="61000000" Text="Your character doesn't meet the level requirement. You will constantly die. Please leave this ground."/>
+
 <TEXT ID="" Text="Do not translate"/>
 <TEXT ID="" Text="Do not translate"/>
 <TEXT ID="" Text="Do not translate"/>
